@@ -18,7 +18,7 @@ STOCK_LIST = [
     "Nifty 50"
 ]
 
-OUTPUT_FILE = r"C:/Users/acer/Desktop/market_sentiment.csv"
+OUTPUT_FILE = "market_sentiment.csv"
 
 
 # ----------------------------
@@ -133,3 +133,4 @@ df = pd.DataFrame(final_data, columns=[
 df.to_csv(OUTPUT_FILE, index=False)
 
 print("DONE. Sentiment File Updated Successfully.")
+
