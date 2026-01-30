@@ -1,0 +1,36 @@
+name: Market Sentiment Scheduler
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs every 1 hour
+  workflow_dispatch:
+
+jobs:
+  run-finbert:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run FinBERT Pipeline
+      run: |
+        python finbert_news_pipeline.py
+
+    - name: Commit Output CSV
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+        git add market_sentiment.csv
+        git commit -m "Auto update sentiment data" || echo "No changes"
+        git push
