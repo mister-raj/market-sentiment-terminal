@@ -1,49 +1,49 @@
 Stock,Headline,Sentiment,Score,Confidence,Timestamp
-Infosys,"TCS to Infosys, HCL Tech: Nifty IT jumps 2% after AI Chipmaker Nvidia post strong Q4 earnings - Mint",POSITIVE,1,0.934,2026-02-27 06:52:05
-Infosys,"Infosys Share Price Live Updates: IBM shares sink 13%, record steepest drop in 25 years after Anthropic s... - The Economic Times",NEGATIVE,-1,0.972,2026-02-27 06:52:05
-Infosys,"9 Stocks To Buy For Long Term: Motilal Oswal picks stocks for 2026 with up to 48% upside; Infosys, Coal India, Varun Beverages on list - Zee Business",POSITIVE,1,0.57,2026-02-27 06:52:05
-Infosys,"Stock market crash: TCS, Infosys, Suzlon Energy, Ola Electric among 264 stocks that hit 52-week low on NSE - Upstox",NEGATIVE,-1,0.836,2026-02-27 06:52:05
-Infosys,"Infosys, TCS, Other IT Stocks Gain Up To 3% As Wall Street’s AI Rally Fizzles Out - News18",POSITIVE,1,0.909,2026-02-27 06:52:05
-Infosys,"Infosys, TCS, HCL Tech Share Price in Focus: IT Stocks Extend Rebound for Second Day | Stock Market Today - Samco",POSITIVE,1,0.541,2026-02-27 06:52:05
-Infosys,"Stock Market closes in green: Sensex, Nifty gain as Infosys, TCS shine - news24online.com",NEUTRAL,0,0.707,2026-02-27 06:52:05
-Infosys,"Infosys, Wipro & TCS shares hit 1-yr low amid AI concerns over IT pack; what analysts say - Business Today",NEGATIVE,-1,0.964,2026-02-27 06:52:05
-Reliance Industries,RIL shares fall over 2% post Q1 results; analysts say it missed estimates despite impressive numbers - Upstox,NEGATIVE,-1,0.973,2026-02-27 06:52:08
-Reliance Industries,Reliance Industries Ltd Sees High-Value Trading Amid Declining Momentum - Markets Mojo,NEGATIVE,-1,0.955,2026-02-27 06:52:08
-Reliance Industries,Reliance Industries: Morgan Stanley Sets New Stock Target for the Company - Trade Brains,NEUTRAL,0,0.893,2026-02-27 06:52:08
-Reliance Industries,"Stocks to watch: IRFC, SBI Life, Reliance Industries among 10 shares in focus today; full list here - Mint",NEUTRAL,0,0.934,2026-02-27 06:52:08
-Reliance Industries,Reliance Industries Completes ₹853.2 Crore Share Allotment in REIL with Meta Partnership - scanx.trade,POSITIVE,1,0.573,2026-02-27 06:52:08
-Reliance Industries,Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times,NEUTRAL,0,0.934,2026-02-27 06:52:08
-Reliance Industries,"Stocks To Watch Today: Lupin, Vedanta IRFC, Waaree Energies, Zydus Lifesciences, RBL Bank, Reliance Industries & More in Focus - The Sunday Guardian",NEUTRAL,0,0.935,2026-02-27 06:52:08
-Reliance Industries,"From Reliance Industries, IRFC, Tata Capital to KFin Technologies – Here are 10 stocks to watch today - The Financial Express",NEUTRAL,0,0.94,2026-02-27 06:52:08
-HDFC Bank,Sensex and Nifty end flat after volatile trade; HDFC Bank drags - Telegraph India,NEGATIVE,-1,0.955,2026-02-27 06:52:11
-HDFC Bank,"Tata Steel, Infosys, HDFC Bank: How to trade these 3 buzzing largecap stocks - Business Today",NEUTRAL,0,0.933,2026-02-27 06:52:11
-HDFC Bank,"India stock market today: Nifty ends flat near 25,500 as HDFC Bank drags; GDP reset in focus Friday - TechStock²",NEGATIVE,-1,0.903,2026-02-27 06:52:11
-HDFC Bank,HDFC Bank Sees Surge in Put Option Activity Amid Bearish Sentiment - Markets Mojo,POSITIVE,1,0.92,2026-02-27 06:52:11
-HDFC Bank,"Market Wrap: Nifty, Sensex end flat in a volatile trade as heavyweight HDFC Bank drags market - The Economic Times",NEGATIVE,-1,0.935,2026-02-27 06:52:12
-HDFC Bank,Sensex tumbles 500 points: Why is stock market falling today - India Today,NEGATIVE,-1,0.942,2026-02-27 06:52:12
-HDFC Bank,"Bank Nifty Swings Into Red, Slips 350 Points From 61,250 High As HDFC Bank, Axis Bank Drag - Samco",NEGATIVE,-1,0.951,2026-02-27 06:52:12
-HDFC Bank,Onix Solar Energy Promoter Pledges 20% Stake to HDFC Bank for Borrowing Security - scanx.trade,NEUTRAL,0,0.921,2026-02-27 06:52:12
-TCS,"Infosys, TCS, Other IT Stocks Gain Up To 3% As Wall Street’s AI Rally Fizzles Out - News18",POSITIVE,1,0.909,2026-02-27 06:52:15
-TCS,"Infosys, Coforge, Wipro to TCS: IT stocks rally amid weak trends in Indian stock market today - Mint",NEGATIVE,-1,0.962,2026-02-27 06:52:15
-TCS,"TCS Share Price Jumps 1.71% to Rs. 2,617.60: Can the Rally Sustain? - Analytics Insight",POSITIVE,1,0.659,2026-02-27 06:52:15
-TCS,"Infosys, TCS, HCL Tech Share Price in Focus: IT Stocks Extend Rebound for Second Day | Stock Market Today - Samco",POSITIVE,1,0.541,2026-02-27 06:52:15
-TCS,"Antique cuts TCS, HCLTech to 'Hold'; slashes growth estimates on AI risks - Business Standard",NEGATIVE,-1,0.951,2026-02-27 06:52:15
-TCS,"Infosys, Wipro & TCS shares hit 1-yr low amid AI concerns over IT pack; what analysts say - Business Today",NEGATIVE,-1,0.964,2026-02-27 06:52:15
-TCS,"Infosys, TCS to HCL Tech: IT stocks extend selloff. Why is Anthropic's COBOL creating fresh AI disruption fears? - Mint",NEGATIVE,-1,0.638,2026-02-27 06:52:15
-TCS,"Infosys, TCS, Mphasis to Coforge: Indian IT stocks jump up to 4% as global tech stocks rally on Anthropic comments - Mint",POSITIVE,1,0.939,2026-02-27 06:52:15
-ICICI Bank,ICICI Bank Ltd. Sees High-Value Trading Amid Narrow Price Range and Institutional Interest - Markets Mojo,POSITIVE,1,0.672,2026-02-27 06:52:18
-ICICI Bank,"ICICI Bank Allots 376,461 Equity Shares Under Employee Stock Option Scheme - scanx.trade",NEUTRAL,0,0.947,2026-02-27 06:52:18
-ICICI Bank,"ICICI Bank Allots 376,461 Equity Shares Under Employee Stock Option Scheme - indiaipo.in",NEUTRAL,0,0.947,2026-02-27 06:52:18
-ICICI Bank,Apar Ind hits 52-week high; ICICI Sec initiates 'Buy' on trifecta drivers - Business Standard,POSITIVE,1,0.698,2026-02-27 06:52:18
-ICICI Bank,"Bank Nifty Swings Into Red, Slips 350 Points From 61,250 High As HDFC Bank, Axis Bank Drag - Samco",NEGATIVE,-1,0.951,2026-02-27 06:52:18
-ICICI Bank,ICICIBANK Outlook for the Week - Equitypandit,NEUTRAL,0,0.913,2026-02-27 06:52:18
-ICICI Bank,"Indian stock market: 8 key things that changed for market overnight - Gift Nifty, Nasdaq, gold rates to US-Iran talks - Mint",NEUTRAL,0,0.87,2026-02-27 06:52:18
-ICICI Bank,"SENSEX, NIFTY50 end off day's highs as losses in Reliance, SBI outweigh gains in TCS, ICICI Bank - Upstox",POSITIVE,1,0.729,2026-02-27 06:52:18
-Nifty 50,"Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex declines 550 pts, Nifty below 25,300; FMCG, b... - The Economic Times",NEGATIVE,-1,0.934,2026-02-27 06:52:21
-Nifty 50,"Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 27 - Mint",NEUTRAL,0,0.928,2026-02-27 06:52:21
-Nifty 50,Asia markets open mixed after Wall Street pullback on Nvidia slump - CNBC,NEGATIVE,-1,0.831,2026-02-27 06:52:21
-Nifty 50,"SENSEX down 300 pts, NIFTY50 hovers around 25,400 in early trade; IT stocks shine, TMCV up 1% - Upstox",NEGATIVE,-1,0.898,2026-02-27 06:52:21
-Nifty 50,"Sensex Opens Nearly 200 Points Lower, Nifty In Red Too - NDTV",NEGATIVE,-1,0.952,2026-02-27 06:52:21
-Nifty 50,Sensex tumbles 500 points: Why is stock market falling today - India Today,NEGATIVE,-1,0.942,2026-02-27 06:52:21
-Nifty 50,Overnight Stock Market Movements: Key Developments - Equitypandit,NEUTRAL,0,0.921,2026-02-27 06:52:21
-Nifty 50,Stock Market Decline: Global Weakness & Outflows - Rediff MoneyWiz,NEGATIVE,-1,0.698,2026-02-27 06:52:21
+Infosys,"TCS to Infosys, HCL Tech: Nifty IT jumps 2% after AI Chipmaker Nvidia post strong Q4 earnings - Mint",POSITIVE,1,0.934,2026-02-27 07:45:28
+Infosys,"Infosys Share Price Live Updates: IBM shares sink 13%, record steepest drop in 25 years after Anthropic s... - The Economic Times",NEGATIVE,-1,0.972,2026-02-27 07:45:28
+Infosys,"9 Stocks To Buy For Long Term: Motilal Oswal picks stocks for 2026 with up to 48% upside; Infosys, Coal India, Varun Beverages on list - Zee Business",POSITIVE,1,0.57,2026-02-27 07:45:28
+Infosys,"Stock market crash: TCS, Infosys, Suzlon Energy, Ola Electric among 264 stocks that hit 52-week low on NSE - Upstox",NEGATIVE,-1,0.836,2026-02-27 07:45:28
+Infosys,"Infosys, TCS, Other IT Stocks Gain Up To 3% As Wall Street’s AI Rally Fizzles Out - News18",POSITIVE,1,0.909,2026-02-27 07:45:28
+Infosys,"Infosys, TCS, HCL Tech Share Price in Focus: IT Stocks Extend Rebound for Second Day | Stock Market Today - Samco",POSITIVE,1,0.541,2026-02-27 07:45:28
+Infosys,"Stock Market closes in green: Sensex, Nifty gain as Infosys, TCS shine - news24online.com",NEUTRAL,0,0.707,2026-02-27 07:45:28
+Infosys,"Infosys, HCLTech, Tech Mahindra sink up to 7%: Why are IT stocks falling today? - India Today",NEGATIVE,-1,0.931,2026-02-27 07:45:29
+Reliance Industries,RIL shares fall over 2% post Q1 results; analysts say it missed estimates despite impressive numbers - Upstox,NEGATIVE,-1,0.973,2026-02-27 07:45:31
+Reliance Industries,Reliance Industries Ltd Sees High-Value Trading Amid Declining Momentum - Markets Mojo,NEGATIVE,-1,0.955,2026-02-27 07:45:31
+Reliance Industries,Reliance Industries: Morgan Stanley Sets New Stock Target for the Company - Trade Brains,NEUTRAL,0,0.893,2026-02-27 07:45:31
+Reliance Industries,"Stocks to watch: IRFC, SBI Life, Reliance Industries among 10 shares in focus today; full list here - Mint",NEUTRAL,0,0.934,2026-02-27 07:45:31
+Reliance Industries,Reliance Industries Completes ₹853.2 Crore Share Allotment in REIL with Meta Partnership - scanx.trade,POSITIVE,1,0.573,2026-02-27 07:45:31
+Reliance Industries,Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times,NEUTRAL,0,0.934,2026-02-27 07:45:31
+Reliance Industries,"Stocks To Watch Today: Lupin, Vedanta IRFC, Waaree Energies, Zydus Lifesciences, RBL Bank, Reliance Industries & More in Focus - The Sunday Guardian",NEUTRAL,0,0.935,2026-02-27 07:45:32
+Reliance Industries,"From Reliance Industries, IRFC, Tata Capital to KFin Technologies – Here are 10 stocks to watch today - The Financial Express",NEUTRAL,0,0.94,2026-02-27 07:45:32
+HDFC Bank,Sensex and Nifty end flat after volatile trade; HDFC Bank drags - Telegraph India,NEGATIVE,-1,0.955,2026-02-27 07:45:34
+HDFC Bank,"Tata Steel, Infosys, HDFC Bank: How to trade these 3 buzzing largecap stocks - Business Today",NEUTRAL,0,0.933,2026-02-27 07:45:34
+HDFC Bank,Onix Solar Energy Promoter Pledges 20% Stake to HDFC Bank for Borrowing Security - scanx.trade,NEUTRAL,0,0.921,2026-02-27 07:45:34
+HDFC Bank,"India stock market today: Nifty ends flat near 25,500 as HDFC Bank drags; GDP reset in focus Friday - TechStock²",NEGATIVE,-1,0.903,2026-02-27 07:45:34
+HDFC Bank,HDFC Bank Sees Surge in Put Option Activity Amid Bearish Sentiment - Markets Mojo,POSITIVE,1,0.92,2026-02-27 07:45:34
+HDFC Bank,Sensex tumbles 500 points: Why is stock market falling today - India Today,NEGATIVE,-1,0.942,2026-02-27 07:45:35
+HDFC Bank,"Market Wrap: Nifty, Sensex end flat in a volatile trade as heavyweight HDFC Bank drags market - The Economic Times",NEGATIVE,-1,0.935,2026-02-27 07:45:35
+HDFC Bank,"Bank Nifty Swings Into Red, Slips 350 Points From 61,250 High As HDFC Bank, Axis Bank Drag - Samco",NEGATIVE,-1,0.951,2026-02-27 07:45:35
+TCS,"Infosys, TCS, Other IT Stocks Gain Up To 3% As Wall Street’s AI Rally Fizzles Out - News18",POSITIVE,1,0.909,2026-02-27 07:45:37
+TCS,"Infosys, Coforge, Wipro to TCS: IT stocks rally amid weak trends in Indian stock market today - Mint",NEGATIVE,-1,0.962,2026-02-27 07:45:37
+TCS,"TCS Share Price Jumps 1.71% to Rs. 2,617.60: Can the Rally Sustain? - Analytics Insight",POSITIVE,1,0.659,2026-02-27 07:45:37
+TCS,"Infosys, TCS, HCL Tech Share Price in Focus: IT Stocks Extend Rebound for Second Day | Stock Market Today - Samco",POSITIVE,1,0.541,2026-02-27 07:45:38
+TCS,"Antique cuts TCS, HCLTech to 'Hold'; slashes growth estimates on AI risks - Business Standard",NEGATIVE,-1,0.951,2026-02-27 07:45:38
+TCS,"Infosys, Wipro & TCS shares hit 1-yr low amid AI concerns over IT pack; what analysts say - Business Today",NEGATIVE,-1,0.964,2026-02-27 07:45:38
+TCS,"Infosys, TCS to HCL Tech: IT stocks extend selloff. Why is Anthropic's COBOL creating fresh AI disruption fears? - Mint",NEGATIVE,-1,0.638,2026-02-27 07:45:38
+TCS,"Infosys, TCS, Mphasis to Coforge: Indian IT stocks jump up to 4% as global tech stocks rally on Anthropic comments - Mint",POSITIVE,1,0.939,2026-02-27 07:45:38
+ICICI Bank,ICICI Bank Ltd. Sees High-Value Trading Amid Narrow Price Range and Institutional Interest - Markets Mojo,POSITIVE,1,0.672,2026-02-27 07:45:40
+ICICI Bank,"ICICI Bank Allots 376,461 Equity Shares Under Employee Stock Option Scheme - scanx.trade",NEUTRAL,0,0.947,2026-02-27 07:45:40
+ICICI Bank,"ICICI Bank Allots 376,461 Equity Shares Under Employee Stock Option Scheme - indiaipo.in",NEUTRAL,0,0.947,2026-02-27 07:45:41
+ICICI Bank,"Bank Nifty Swings Into Red, Slips 350 Points From 61,250 High As HDFC Bank, Axis Bank Drag - Samco",NEGATIVE,-1,0.951,2026-02-27 07:45:41
+ICICI Bank,Apar Ind hits 52-week high; ICICI Sec initiates 'Buy' on trifecta drivers - Business Standard,POSITIVE,1,0.698,2026-02-27 07:45:41
+ICICI Bank,ICICIBANK Outlook for the Week - Equitypandit,NEUTRAL,0,0.913,2026-02-27 07:45:41
+ICICI Bank,"SENSEX, NIFTY50 end off day's highs as losses in Reliance, SBI outweigh gains in TCS, ICICI Bank - Upstox",POSITIVE,1,0.729,2026-02-27 07:45:41
+ICICI Bank,ICICI Bank Sees Heavy Put Option Activity Amid Bearish Sentiment - Markets Mojo,NEGATIVE,-1,0.64,2026-02-27 07:45:41
+Nifty 50,"Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 27 - Mint",NEUTRAL,0,0.928,2026-02-27 07:45:43
+Nifty 50,"Stock market today: Nifty50 opens below 25,450; BSE Sensex down over 250 points - The Times of India",NEGATIVE,-1,0.955,2026-02-27 07:45:44
+Nifty 50,Asia markets trade mixed after Wall Street pullback on Nvidia slump - CNBC,NEGATIVE,-1,0.778,2026-02-27 07:45:44
+Nifty 50,Trade setup for February 27: Top 15 things to know before the opening bell - Moneycontrol.com,NEUTRAL,0,0.934,2026-02-27 07:45:44
+Nifty 50,Overnight Stock Market Movements: Key Developments - Equitypandit,NEUTRAL,0,0.921,2026-02-27 07:45:44
+Nifty 50,"Stock market today: Gift Nifty down 76 points; key levels for Nifty, Sensex & Nifty Bank - Business Today",NEGATIVE,-1,0.965,2026-02-27 07:45:44
+Nifty 50,"What Will Shape The Stock Market Today? From Wall Street Weakness To Sensex, Nifty 50 And Gift Nifty Signals, With Weekend Disclaimer As Investors Remain Cautious - NewsX",NEUTRAL,0,0.586,2026-02-27 07:45:44
+Nifty 50,"Nifty Slips Toward 25,300 as Banking and IT Lead Broad-Based Market Sell-off - Republic World",NEGATIVE,-1,0.94,2026-02-27 07:45:44
