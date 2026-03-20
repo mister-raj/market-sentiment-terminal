@@ -1,49 +1,49 @@
 Stock,Headline,Sentiment,Score,Confidence,Timestamp
-Infosys,Infosys stock hits 52-week low at 13.07 USD By Investing.com - Investing.com India,NEGATIVE,-1,0.915,2026-03-20 05:51:57
-Infosys,"Coforge, Infosys, TCS, other IT stocks rally up to 6% on March 18: What fuelled NIFTY IT surge to over 4% today? - Upstox",POSITIVE,1,0.887,2026-03-20 05:51:57
-Infosys,"Stock market crash: HDFC Bank, HUL to Infosys — 10 Nifty 50 stocks hit fresh 52-week lows today - Mint",NEGATIVE,-1,0.952,2026-03-20 05:51:57
-Infosys,Infosys Share Price Falls To 2-Year Low | IT Stocks Drag In Stock Market Today - Samco,NEGATIVE,-1,0.926,2026-03-20 05:51:57
-Infosys,"9 IT Stocks To Buy For Long Term: Brokerage shares 'buy' calls on TCS, Infosys, HCLTech, other scrips - Zee Business",NEUTRAL,0,0.901,2026-03-20 05:51:57
-Infosys,"Stock market today: Sensex, Nifty flat; Infosys, HCL Tech lead losers - Business Today",NEGATIVE,-1,0.855,2026-03-20 05:51:57
-Infosys,"Nifty IT index falls over 2% to near 3-year low; Wipro, Infosys, TCS among top Nifty losers - Moneycontrol.com",NEGATIVE,-1,0.96,2026-03-20 05:51:57
-Infosys,"Infosys Hits 6-Year Low At ₹1,215, Market Cap Falls Below ₹5 Trillion Amid Revenue Concerns - Free Press Journal",NEGATIVE,-1,0.953,2026-03-20 05:51:57
-Reliance Industries,RIL shares fall over 2% post Q1 results; analysts say it missed estimates despite impressive numbers - Upstox,NEGATIVE,-1,0.973,2026-03-20 05:52:00
-Reliance Industries,Reliance Industries Ltd Sees High-Value Trading Amid Mixed Technical Signals - Markets Mojo,POSITIVE,1,0.626,2026-03-20 05:52:00
-Reliance Industries,"Stocks to Watch Today, March 20: HDFC Bank, ICICI Bank, NBCC, Reliance Industries, TCS, Wipro and others - ET Now",NEUTRAL,0,0.941,2026-03-20 05:52:00
-Reliance Industries,"Reliance Industries Limited | Business, Leadership, & History - Britannica",NEUTRAL,0,0.937,2026-03-20 05:52:00
-Reliance Industries,Reliance Industries: Jefferies Initiates Buy Rating After Announcing Strong Q3 O2C Performance - Trade Brains,POSITIVE,1,0.939,2026-03-20 05:52:00
-Reliance Industries,"Stocks to watch: Reliance Industries, Tata Motors, RVNL among 10 shares in focus on Tuesday - March 17 - Mint",NEUTRAL,0,0.932,2026-03-20 05:52:00
-Reliance Industries,"$200 crude oil scenario: How Reliance Industries, ONGC & OMCs stack up - The Economic Times",NEUTRAL,0,0.921,2026-03-20 05:52:00
-Reliance Industries,Reliance Industries Share Price Rises After Texas Refinery News | Stock Market Today - Samco,NEUTRAL,0,0.395,2026-03-20 05:52:00
-HDFC Bank,"Chairman’s resignation sparks turbulence at HDFC Bank; stock crashes 5%, RBI, board rally behind bank - The Hindu",NEGATIVE,-1,0.952,2026-03-20 05:52:03
-HDFC Bank,HDFC Bank shares crash 9% as Atanu Chakraborty quits; management denies any power struggle - The Economic Times,NEGATIVE,-1,0.873,2026-03-20 05:52:03
-HDFC Bank,"SENSEX plunges over 2,000 points, NIFTY50 below 23,300; HDFC Bank drops most in six years - Upstox",NEGATIVE,-1,0.959,2026-03-20 05:52:03
-HDFC Bank,HDFC Bank shares decline most in 2 years: Do you want to buy this dip? Check this analyst's short-term... - Moneycontrol.com,NEGATIVE,-1,0.941,2026-03-20 05:52:03
-HDFC Bank,"HDFC Bank share price crash wipes off ₹1 lakh crore in market cap — here's how much LIC, FIIs & others lost - MSN",NEGATIVE,-1,0.862,2026-03-20 05:52:03
-HDFC Bank,Why HDFC Bank's Shares Tumbled 5% Today - Equitymaster,NEGATIVE,-1,0.661,2026-03-20 05:52:03
-HDFC Bank,"Stocks to watch: HDFC Bank, NTPC, Wipro among 10 shares in focus today - Mint",NEUTRAL,0,0.905,2026-03-20 05:52:03
-HDFC Bank,"Market tanks over 3% as crude surges, HDFC Bank tumbles - The Indian Express",NEGATIVE,-1,0.87,2026-03-20 05:52:03
-TCS,"HDFC Bank, TCS among 5 Sensex stocks hitting 52-week lows; down up to 16% in a month - The Economic Times",NEGATIVE,-1,0.973,2026-03-20 05:52:06
-TCS,"Stocks to Watch today: TCS, HDFC Bank, Nestle India, NTPC, JSW Cement - Business Standard",NEUTRAL,0,0.929,2026-03-20 05:52:06
-TCS,"SENSEX rises over 400 points, NIFTY50 reclaims 23,700 led by Infosys, TCS - Upstox",POSITIVE,1,0.878,2026-03-20 05:52:06
-TCS,TCS Share Price Live Updates: TCS's beta value points to stability - The Economic Times,NEUTRAL,0,0.717,2026-03-20 05:52:06
-TCS,"9 IT Stocks To Buy For Long Term: Brokerage shares 'buy' calls on TCS, Infosys, HCLTech, other scrips - Zee Business",NEUTRAL,0,0.901,2026-03-20 05:52:06
-TCS,Stocks to Buy: TCS and 5 Other IT Stocks That Can Deliver Returns of Up to 50%; Do You Own Any? - Trade Brains,NEUTRAL,0,0.921,2026-03-20 05:52:06
-TCS,"Stock market today: Sensex jumps 505 pts, Nifty above 23,700; Bajaj Finance, TCS lead gainers - Business Today",POSITIVE,1,0.927,2026-03-20 05:52:06
-TCS,"Infosys, TCS, to Wipro: Nifty IT index soars 4%, snaps 6-day losing run. What's behind the rebound? - Mint",NEGATIVE,-1,0.847,2026-03-20 05:52:06
-ICICI Bank,"HDFC Bank, SBI Among Motilal Oswal's Top Picks In Banking Stocks — Check Target Price And More - NDTV Profit",NEUTRAL,0,0.799,2026-03-20 05:52:09
-ICICI Bank,"ICICI Bank, ICICI Pru Life slip up to 4% as Prudential explores JV exit - Business Standard",NEGATIVE,-1,0.971,2026-03-20 05:52:09
-ICICI Bank,"Spillover effect: Axis Bank, ICICI Bank shares fall as investors give a thumbs down to HDFC Bank stock - Business Today",NEGATIVE,-1,0.966,2026-03-20 05:52:09
-ICICI Bank,"Stocks to Watch Today, March 20: HDFC Bank, ICICI Bank, NBCC, Reliance Industries, TCS, Wipro and others - ET Now",NEUTRAL,0,0.941,2026-03-20 05:52:09
-ICICI Bank,"HDFC Bank, ICICI Bank, Infosys among top mutual fund buys in February; SBI, Bajaj Finance see selling - Mint",POSITIVE,1,0.619,2026-03-20 05:52:09
-ICICI Bank,"SENSEX, NIFTY50 gain for a second straight session led by ICICI Bank, Larsen & Toubro - Upstox",POSITIVE,1,0.94,2026-03-20 05:52:09
-ICICI Bank,"IT sector enters value zone, says ICICI Securities; Coforge, Mphasis among top mid-cap stocks to buy - Mint",POSITIVE,1,0.921,2026-03-20 05:52:09
-ICICI Bank,ICICI Bank Sees Heavy Put Option Activity Ahead of March Expiry - Markets Mojo,NEUTRAL,0,0.734,2026-03-20 05:52:09
-Nifty 50,"Stock market crash erases Rs 11 lakh crore investors’ wealth! Sensex ends around 2,500 points down - top - The Times of India",NEGATIVE,-1,0.824,2026-03-20 05:52:12
-Nifty 50,"Stock Market Crash News Today Highlights: Nifty Ends Below 23,100, Sensex Slides 2,500 Points Amid Crude Oil Price Surge, HDFC Bank Selloff - NDTV Profit",NEGATIVE,-1,0.92,2026-03-20 05:52:12
-Nifty 50,"Stock market today (March 20, 2026): Nifty50 opens above 23,200; BSE Sensex up over 700 points - The Times of India",POSITIVE,1,0.929,2026-03-20 05:52:12
-Nifty 50,"Trade setup for March 20: Can NIFTY50 hold the 23,000 support on Friday? - Upstox",NEUTRAL,0,0.912,2026-03-20 05:52:12
-Nifty 50,"Indian stock market: 10 key things that changed for market overnight - Gift Nifty, US-Iran war, gold rate to oil prices - Mint",NEUTRAL,0,0.88,2026-03-20 05:52:12
-Nifty 50,India shares lower at close of trade; Nifty 50 down 3.26% - Investing.com India,NEGATIVE,-1,0.959,2026-03-20 05:52:12
-Nifty 50,"Sensex sheds ~2,500 points, Nifty 50 sheds 3.25% in biggest single-day fall in ~2 years | Business News - Hindustan Times",NEGATIVE,-1,0.959,2026-03-20 05:52:12
-Nifty 50,"Stock Market Highlights: Sensex plunges 1.08% to 76,034, Nifty50 drops 0.95% to 23,639: Autos, FMCG lead losses - BusinessLine",NEGATIVE,-1,0.93,2026-03-20 05:52:12
+Infosys,Infosys stock hits 52-week low at 13.07 USD By Investing.com - Investing.com India,NEGATIVE,-1,0.915,2026-03-20 06:53:53
+Infosys,"Coforge, Infosys, TCS, other IT stocks rally up to 6% on March 18: What fuelled NIFTY IT surge to over 4% today? - Upstox",POSITIVE,1,0.887,2026-03-20 06:53:53
+Infosys,"Stock market crash: HDFC Bank, HUL to Infosys — 10 Nifty 50 stocks hit fresh 52-week lows today - Mint",NEGATIVE,-1,0.952,2026-03-20 06:53:53
+Infosys,Infosys Share Price Falls To 2-Year Low | IT Stocks Drag In Stock Market Today - Samco,NEGATIVE,-1,0.926,2026-03-20 06:53:53
+Infosys,"9 IT Stocks To Buy For Long Term: Brokerage shares 'buy' calls on TCS, Infosys, HCLTech, other scrips - Zee Business",NEUTRAL,0,0.901,2026-03-20 06:53:53
+Infosys,"Stock market today: Sensex, Nifty flat; Infosys, HCL Tech lead losers - Business Today",NEGATIVE,-1,0.855,2026-03-20 06:53:53
+Infosys,"Nifty IT index falls over 2% to near 3-year low; Wipro, Infosys, TCS among top Nifty losers - Moneycontrol.com",NEGATIVE,-1,0.96,2026-03-20 06:53:53
+Infosys,"Infosys Hits 6-Year Low At ₹1,215, Market Cap Falls Below ₹5 Trillion Amid Revenue Concerns - Free Press Journal",NEGATIVE,-1,0.953,2026-03-20 06:53:53
+Reliance Industries,"Reliance Industries, Indian Oil, Bharat Petroleum, HPCL shares: Oil refiners gain as crude oil slides - Upstox",POSITIVE,1,0.916,2026-03-20 06:53:56
+Reliance Industries,Reliance Industries Ltd Sees High-Value Trading Amid Mixed Technical Signals - Markets Mojo,POSITIVE,1,0.626,2026-03-20 06:53:56
+Reliance Industries,"Stocks to watch: Reliance Industries, Tata Motors, RVNL among 10 shares in focus on Tuesday - March 17 - Mint",NEUTRAL,0,0.932,2026-03-20 06:53:56
+Reliance Industries,Reliance Industries: Jefferies Initiates Buy Rating After Announcing Strong Q3 O2C Performance - Trade Brains,POSITIVE,1,0.939,2026-03-20 06:53:56
+Reliance Industries,RIL shares fall over 2% post Q1 results; analysts say it missed estimates despite impressive numbers - Upstox,NEGATIVE,-1,0.973,2026-03-20 06:53:56
+Reliance Industries,"RELIANCE Outlook for the Week (March 16, 2026 – March 20, 2026) - Equitypandit",NEUTRAL,0,0.862,2026-03-20 06:53:56
+Reliance Industries,Reliance Industries Sees Surge in Call Option Activity Ahead of March Expiry - Markets Mojo,POSITIVE,1,0.942,2026-03-20 06:53:56
+Reliance Industries,Reliance Industries Share Price Rises After Texas Refinery News | Stock Market Today - Samco,NEUTRAL,0,0.395,2026-03-20 06:53:56
+HDFC Bank,"Chairman’s resignation sparks turbulence at HDFC Bank; stock crashes 5%, RBI, board rally behind bank - The Hindu",NEGATIVE,-1,0.952,2026-03-20 06:53:59
+HDFC Bank,HDFC Bank share price recovers after tumbling 9% post-analyst call on Atanu Chakraborty's resignation; what Keki Mistry said - Upstox,POSITIVE,1,0.494,2026-03-20 06:53:59
+HDFC Bank,HDFC Bank shares down 7.5% in just two days after Atanu Chakraborty’s resignation; what’s the outlook? - The Times of India,NEGATIVE,-1,0.968,2026-03-20 06:53:59
+HDFC Bank,HDFC Bank shares decline most in 2 years: Do you want to buy this dip? Check this analyst's short-term... - Moneycontrol.com,NEGATIVE,-1,0.941,2026-03-20 06:53:59
+HDFC Bank,"HDFC Bank share price crash wipes off ₹1 lakh crore in market cap — here's how much LIC, FIIs & others lost - MSN",NEGATIVE,-1,0.862,2026-03-20 06:53:59
+HDFC Bank,Why HDFC Bank's Shares Tumbled 5% Today - Equitymaster,NEGATIVE,-1,0.661,2026-03-20 06:53:59
+HDFC Bank,"Stocks to watch: HDFC Bank, NTPC, Wipro among 10 shares in focus today - Mint",NEUTRAL,0,0.905,2026-03-20 06:53:59
+HDFC Bank,"Market tanks over 3% as crude surges, HDFC Bank tumbles - The Indian Express",NEGATIVE,-1,0.87,2026-03-20 06:53:59
+TCS,"HDFC Bank, TCS among 5 Sensex stocks hitting 52-week lows; down up to 16% in a month - The Economic Times",NEGATIVE,-1,0.973,2026-03-20 06:54:02
+TCS,"Stocks to Watch today: TCS, HDFC Bank, Nestle India, NTPC, JSW Cement - Business Standard",NEUTRAL,0,0.929,2026-03-20 06:54:02
+TCS,"9 IT Stocks To Buy For Long Term: Brokerage shares 'buy' calls on TCS, Infosys, HCLTech, other scrips - Zee Business",NEUTRAL,0,0.901,2026-03-20 06:54:02
+TCS,TCS Share Price Live Updates: TCS's beta value points to stability - The Economic Times,NEUTRAL,0,0.717,2026-03-20 06:54:02
+TCS,Stocks to Buy: TCS and 5 Other IT Stocks That Can Deliver Returns of Up to 50%; Do You Own Any? - Trade Brains,NEUTRAL,0,0.921,2026-03-20 06:54:02
+TCS,"SENSEX rises over 400 points, NIFTY50 reclaims 23,700 led by Infosys, TCS - Upstox",POSITIVE,1,0.878,2026-03-20 06:54:02
+TCS,"Stock market today: Sensex jumps 505 pts, Nifty above 23,700; Bajaj Finance, TCS lead gainers - Business Today",POSITIVE,1,0.927,2026-03-20 06:54:02
+TCS,"Infosys, TCS, to Wipro: Nifty IT index soars 4%, snaps 6-day losing run. What's behind the rebound? - Mint",NEGATIVE,-1,0.847,2026-03-20 06:54:02
+ICICI Bank,"ICICI Bank, ICICI Pru Life slip up to 4% as Prudential explores JV exit - Business Standard",NEGATIVE,-1,0.971,2026-03-20 06:54:05
+ICICI Bank,"Spillover effect: Axis Bank, ICICI Bank shares fall as investors give a thumbs down to HDFC Bank stock - Business Today",NEGATIVE,-1,0.966,2026-03-20 06:54:05
+ICICI Bank,"Stocks to Watch Today, March 20: HDFC Bank, ICICI Bank, NBCC, Reliance Industries, TCS, Wipro and others - ET Now",NEUTRAL,0,0.941,2026-03-20 06:54:05
+ICICI Bank,"HDFC Bank, ICICI Bank, Infosys among top mutual fund buys in February; SBI, Bajaj Finance see selling - Mint",POSITIVE,1,0.619,2026-03-20 06:54:05
+ICICI Bank,"SENSEX, NIFTY50 gain for a second straight session led by ICICI Bank, Larsen & Toubro - Upstox",POSITIVE,1,0.94,2026-03-20 06:54:05
+ICICI Bank,"IT sector enters value zone, says ICICI Securities; Coforge, Mphasis among top mid-cap stocks to buy - Mint",POSITIVE,1,0.921,2026-03-20 06:54:05
+ICICI Bank,"ICICI Bank Allots 28,800 Equity Shares Under Employee Stock Option Scheme - scanx.trade",NEUTRAL,0,0.951,2026-03-20 06:54:06
+ICICI Bank,ICICI Bank Sees Heavy Put Option Activity Ahead of March Expiry - Markets Mojo,NEUTRAL,0,0.734,2026-03-20 06:54:06
+Nifty 50,"Stock Market Crash Highlights: Nifty ends near 23,000; Sensex tumbles 2,500 pts led by bank, oil stocks - CNBC TV18",NEGATIVE,-1,0.91,2026-03-20 06:54:08
+Nifty 50,"Stock market crash erases Rs 11 lakh crore investors’ wealth! Sensex ends around 2,500 points down - top - The Times of India",NEGATIVE,-1,0.824,2026-03-20 06:54:08
+Nifty 50,"Stock Market Highlights: Markets End In Green As Wall Street, Asian Peers Edge Higher - NDTV",POSITIVE,1,0.697,2026-03-20 06:54:08
+Nifty 50,"Trade setup for March 20: Can NIFTY50 hold the 23,000 support on Friday? - Upstox",NEUTRAL,0,0.912,2026-03-20 06:54:08
+Nifty 50,Nifty 50 to Sensex: Why is the Indian stock market up today? Explained - MSN,NEUTRAL,0,0.835,2026-03-20 06:54:08
+Nifty 50,"Indian stock market: 10 key things that changed for market overnight - Gift Nifty, US-Iran war, gold rate to oil prices - Mint",NEUTRAL,0,0.88,2026-03-20 06:54:08
+Nifty 50,India shares lower at close of trade; Nifty 50 down 3.26% - Investing.com India,NEGATIVE,-1,0.959,2026-03-20 06:54:09
+Nifty 50,"Stock Market Highlights: Sensex plunges 1.08% to 76,034, Nifty50 drops 0.95% to 23,639: Autos, FMCG lead losses - BusinessLine",NEGATIVE,-1,0.93,2026-03-20 06:54:09
