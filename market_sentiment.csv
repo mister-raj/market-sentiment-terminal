@@ -1,41 +1,49 @@
 Stock,Headline,Sentiment,Score,Confidence,Timestamp
-Infosys,Adani Power surges past Infosys in market capitalisation - The Economic Times,NEUTRAL,0,0.763,2026-05-29 02:56:02
-Infosys,Big milestone! Adani Power overtakes Infosys in market capitalisation; share rallies over 65% year-to-dat - The Times of India,POSITIVE,1,0.93,2026-05-29 02:56:02
-Infosys,Adani Stocks Rise; Adani Power Tops Infosys in Market Cap - Rediff MoneyWiz,POSITIVE,1,0.516,2026-05-29 02:56:02
-Infosys,Coal India OFS subscribed 3.7 times; Adani Power overtakes Infosys in mcap - Business Standard,NEUTRAL,0,0.837,2026-05-29 02:56:02
-Infosys,Adani Power surpasses Infosys in market capitalisation after 126% rally in one year - The Economic Times,POSITIVE,1,0.941,2026-05-29 02:56:02
-Infosys,"Reliance Industries, Infosys, among 10 stocks which saw highest buying by retail investors in Q4 - The Economic Times",NEUTRAL,0,0.563,2026-05-29 02:56:02
-Infosys,"Adani Power Overtakes Infosys in Market Cap, Soars 68% to Claim 11th Spot in India - Analytics Insight",POSITIVE,1,0.93,2026-05-29 02:56:02
-Infosys,INFOSYS LIMITED Share Price Today - Live INFY Stock Price for NSE/BSE - Upstox,NEUTRAL,0,0.945,2026-05-29 02:56:02
-Reliance Industries,Mukesh Ambani-led Reliance Industries' contribution to national exchequer rises to Rs 2.16 lakh crore - The Economic Times,POSITIVE,1,0.924,2026-05-29 02:56:05
-Reliance Industries,"Reliance Industries shares to be in focus tomorrow as Mukesh Ambani-led firm announces AGM date, dividend record date - Mint",NEUTRAL,0,0.794,2026-05-29 02:56:05
-Reliance Industries,"Reliance Industries Convenes 49th AGM on June 19, 2026; Proposes ₹6 Per Share Dividend - scanx.trade",NEUTRAL,0,0.929,2026-05-29 02:56:05
-Reliance Industries,Reliance Industries' stock jumps over 2.5% amid weak trade; possible triggers explained - Upstox,POSITIVE,1,0.512,2026-05-29 02:56:05
-Reliance Industries,"Reliance Industries to hold 49th AGM on June 19, June 5 fixed as record date for dividend - BusinessLine",NEUTRAL,0,0.942,2026-05-29 02:56:05
-Reliance Industries,"HDFC Bank Ltd. - Reliance Industries, Infosys, among 10 stocks which saw highest buying by retail investors in Q4 - The Economic Times",NEUTRAL,0,0.609,2026-05-29 02:56:05
-Reliance Industries,"Stocks to Watch today: RIL, Lupin, Wipro, Asian Paints, Ireda, Tata Elxsi - Business Standard",NEUTRAL,0,0.936,2026-05-29 02:56:05
-Reliance Industries,Reliance Industries fixes June 5 record date for FY26 dividend; AGM on June 19 - CNBC TV18,NEUTRAL,0,0.938,2026-05-29 02:56:05
-HDFC Bank,Where Will HDFC Bank Share Price be in the Next 3 Years? - Equitymaster,NEUTRAL,0,0.945,2026-05-29 02:56:08
-HDFC Bank,HDFC Bank shares drop 2% on reports of probe regarding Rs 45 crore interest payments; bank ‘strongly reje - The Times of India,NEGATIVE,-1,0.95,2026-05-29 02:56:08
-HDFC Bank,HDFC Bank shares fall over 2% amid ‘camouflaged’ payments probe - The Indian Express,NEGATIVE,-1,0.961,2026-05-29 02:56:08
-HDFC Bank,HDFC Bank shares fall 2% on reports of internal probe over Rs 45 cr interest payments - The Economic Times,NEGATIVE,-1,0.959,2026-05-29 02:56:08
-HDFC Bank,"Sensex down 142 points; metal rally cushions losses from HDFC Bank, ONGC - BusinessLine",NEGATIVE,-1,0.96,2026-05-29 02:56:08
-HDFC Bank,"Market Wrap: Sensex falls 142 points, Nifty holds 23,900; HDFC Bank shares tumble 3% - The Economic Times",NEGATIVE,-1,0.949,2026-05-29 02:56:08
-HDFC Bank,"HDFC Bank shares: Rs 24,000 crore market cap gone today! Here's why - Business Today",NEUTRAL,0,0.691,2026-05-29 02:56:08
-HDFC Bank,"Eternal, HDFC Bank among 10 stocks which saw highest DII buying in Q4. How many do you own? - The Economic Times",NEUTRAL,0,0.923,2026-05-29 02:56:08
-TCS,Is TCS Stock a Generational Watchlist Pick? - Equitymaster,NEUTRAL,0,0.881,2026-05-29 02:56:11
-TCS,"Upcoming dividend stocks, bonus issues this week: TCS, Bajaj Auto, LIC, others in focus; check full list - Upstox",NEUTRAL,0,0.939,2026-05-29 02:56:11
-TCS,Why TCS stock is plunging despite earnings beat strong deal wins? - TradingView,NEGATIVE,-1,0.865,2026-05-29 02:56:11
-TCS,TCS shares down 3.2% despite Q4 profit growth and deal wins - BusinessLine,NEGATIVE,-1,0.973,2026-05-29 02:56:11
-TCS,"Infosys, TCS shares tumble up to 4%: Why are IT shares falling today? - India Today",NEGATIVE,-1,0.95,2026-05-29 02:56:11
-TCS,"TCS stock at lowest level since October 2020, tanks 17% in 1 month - Business Standard",NEGATIVE,-1,0.969,2026-05-29 02:56:11
-TCS,"India's TCS falls as rare annual revenue drop dulls quarterly earnings beat, deal wins - Reuters",NEGATIVE,-1,0.953,2026-05-29 02:56:11
-TCS,Market recap: Rs 2 lakh crore wiped out from 7 of top-10 firms; TCS biggest laggard - The Times of India,NEGATIVE,-1,0.951,2026-05-29 02:56:11
-Nifty 50,"Stock Market Live Updates Today: BSE Sensex, Nifty50 set for a muted start; global crude oil prices drop - The Times of India",NEGATIVE,-1,0.958,2026-05-29 02:56:17
-Nifty 50,"Markets News Highlights: Sensex, Nifty Open Week Higher As Amid New Gulf Proposal - NDTV",NEUTRAL,0,0.521,2026-05-29 02:56:17
-Nifty 50,"Sensex Today | Nifty 50 | Stock Market Highlights: Sensex snaps 3-day losing run, ends 639 pts higher; Ni... - The Economic Times",NEGATIVE,-1,0.821,2026-05-29 02:56:17
-Nifty 50,"Trading Plan: Will Nifty 50, Bank Nifty extend selling pressure for third consecutive session amid... - Moneycontrol.com",NEUTRAL,0,0.829,2026-05-29 02:56:17
-Nifty 50,"Stock Market Live, May 29: Gift Nifty signals flat opening for Indian equities as investors watch Iran talks - BusinessLine",POSITIVE,1,0.622,2026-05-29 02:56:17
-Nifty 50,Stock Market Today: All You Need To Know Before Going Into Trade On May 29 - NDTV Profit,NEUTRAL,0,0.949,2026-05-29 02:56:17
-Nifty 50,"Stock Market Highlights Today: BSE Sensex ends below 75,900, down over 140 points; Nifty50 closes flat - The Times of India",NEGATIVE,-1,0.965,2026-05-29 02:56:17
-Nifty 50,"Stock Market Update: Nifty 50, Sensex Closed Today, Key Levels to Watch for May 29th - Analytics Insight",NEUTRAL,0,0.905,2026-05-29 02:56:17
+Infosys,Big milestone! Adani Power overtakes Infosys in market capitalisation; share rallies over 65% year-to-dat - The Times of India,POSITIVE,1,0.93,2026-05-29 06:54:26
+Infosys,Infosys Share Price Live Updates: Infosys experiences a downturn with 3-month returns - The Economic Times,NEGATIVE,-1,0.962,2026-05-29 06:54:26
+Infosys,Adani Stocks Rise; Adani Power Tops Infosys in Market Cap - Rediff,POSITIVE,1,0.873,2026-05-29 06:54:26
+Infosys,"Wipro, Infosys to Coforge: Why are IT stocks rising in trade today? Nifty IT index soars 3% - Mint",POSITIVE,1,0.746,2026-05-29 06:54:26
+Infosys,Coal India OFS subscribed 3.7 times; Adani Power overtakes Infosys in mcap - Business Standard,NEUTRAL,0,0.837,2026-05-29 06:54:26
+Infosys,"Adani Power Overtakes Infosys in Market Cap, Soars 68% to Claim 11th Spot in India - Analytics Insight",POSITIVE,1,0.93,2026-05-29 06:54:26
+Infosys,"Reliance Industries, Infosys, among 10 stocks which saw highest buying by retail investors in Q4 - The Economic Times",NEUTRAL,0,0.563,2026-05-29 06:54:26
+Infosys,Adani Power surges past Infosys in market capitalisation - The Economic Times,NEUTRAL,0,0.763,2026-05-29 06:54:26
+Reliance Industries,"Reliance Industries annual report 2026: Key insights, growth outlook, and what investors should watch - Upstox",NEUTRAL,0,0.932,2026-05-29 06:54:29
+Reliance Industries,Reliance share price gains over 1% after AGM date announcement - Mint,POSITIVE,1,0.942,2026-05-29 06:54:29
+Reliance Industries,"Reliance Jio IPO soon? Mukesh Ambani to provide update on $4 bn public issue at upcoming AGM, says report - The Economic Times",NEUTRAL,0,0.92,2026-05-29 06:54:29
+Reliance Industries,Reliance Industries Ltd Sees High-Value Trading Amid Mixed Technical Signals - Markets Mojo,POSITIVE,1,0.626,2026-05-29 06:54:29
+Reliance Industries,"Reliance Industries Convenes 49th AGM on June 19, 2026; Proposes ₹6 Per Share Dividend - scanx.trade",NEUTRAL,0,0.929,2026-05-29 06:54:29
+Reliance Industries,"Dividend stocks: RIL, Ashok Leyland, 13 others to remain in focus next week - Business Standard",NEUTRAL,0,0.93,2026-05-29 06:54:29
+Reliance Industries,"Reliance Industries to hold 49th AGM on June 19, June 5 fixed as record date for dividend - BusinessLine",NEUTRAL,0,0.942,2026-05-29 06:54:29
+Reliance Industries,"Dividends, bonuses and stock splits in June 2026: Reliance Industries, HDFC Bank, Infosys, LIC, Tata Steel, Adani Ports, others in focus - Upstox",NEUTRAL,0,0.931,2026-05-29 06:54:29
+HDFC Bank,Where Will HDFC Bank Share Price be in the Next 3 Years? - Equitymaster,NEUTRAL,0,0.945,2026-05-29 06:54:32
+HDFC Bank,HDFC Bank shares drop 2% on reports of probe regarding Rs 45 crore interest payments; bank ‘strongly reje - The Times of India,NEGATIVE,-1,0.95,2026-05-29 06:54:32
+HDFC Bank,HDFC Bank shares fall 2% on reports of internal probe over Rs 45 cr interest payments - The Economic Times,NEGATIVE,-1,0.959,2026-05-29 06:54:32
+HDFC Bank,HDFC Bank shares fall over 2% amid ‘camouflaged’ payments probe - The Indian Express,NEGATIVE,-1,0.961,2026-05-29 06:54:32
+HDFC Bank,"Sensex down 142 points; metal rally cushions losses from HDFC Bank, ONGC - BusinessLine",NEGATIVE,-1,0.96,2026-05-29 06:54:32
+HDFC Bank,"Stocks to buy for long term: HDFC Bank, HCC among 8 stocks Ventura's Vinit Bolinjkar suggests for 18-115% gains - Mint",POSITIVE,1,0.881,2026-05-29 06:54:32
+HDFC Bank,"HDFC Bank shares: Rs 24,000 crore market cap gone today! Here's why - Business Today",NEUTRAL,0,0.691,2026-05-29 06:54:33
+HDFC Bank,HDFC Bank Share Price Live Updates: HDFC Bank's Performance Over Three Months - The Economic Times,NEUTRAL,0,0.895,2026-05-29 06:54:33
+TCS,"Infosys, Wipro, TCS, other IT stocks jump up to 4%: What’s behind the bullish sentiment in a muted market? - The Economic Times",POSITIVE,1,0.79,2026-05-29 06:54:35
+TCS,"Nifty IT jumps 2.5%; why are Infosys, Wipro, TCS, Coforge up today? - Business Standard",NEUTRAL,0,0.734,2026-05-29 06:54:35
+TCS,TCS Share Price Today - Live TCS Stock Price for NSE/BSE - Upstox,NEUTRAL,0,0.948,2026-05-29 06:54:35
+TCS,Tata Consultancy Services Ltd. Sees High-Value Trading Amid Mixed Market Signals - Markets Mojo,POSITIVE,1,0.873,2026-05-29 06:54:35
+TCS,"Infosys, TCS, Wipro, HCL Tech: IT stocks lead Nifty gainers; factors fueling the rally - Business Today",POSITIVE,1,0.73,2026-05-29 06:54:36
+TCS,"Stocks to watch, May 29: Deepak Fertilisers, RIL, Wipro, TCS, Wockhardt, Ashok Leyland, Asian Paints - Upstox",NEUTRAL,0,0.858,2026-05-29 06:54:36
+TCS,Is TCS Stock a Generational Watchlist Pick? - Equitymaster,NEUTRAL,0,0.881,2026-05-29 06:54:36
+TCS,Why TCS stock is plunging despite earnings beat strong deal wins? - TradingView,NEGATIVE,-1,0.865,2026-05-29 06:54:36
+ICICI Bank,ICICI Bank Ltd. Technical Momentum Shifts Amid Mixed Market Signals - Markets Mojo,NEGATIVE,-1,0.709,2026-05-29 06:54:38
+ICICI Bank,HDFC Bank shares fall 5% in two sessions; lender responds to recent Rs 45 crore differential payment report - The Economic Times,NEGATIVE,-1,0.959,2026-05-29 06:54:38
+ICICI Bank,Raja Venkatraman recommends three stocks for 29 May - Mint,NEUTRAL,0,0.943,2026-05-29 06:54:39
+ICICI Bank,"Nomura raises ICICI Bank stock price target to INR1,620 on earnings - Investing.com",NEUTRAL,0,0.73,2026-05-29 06:54:39
+ICICI Bank,ICICI Bank Ltd. Sees High-Value Trading Amid Sector Outperformance and Institutional Interest - Markets Mojo,POSITIVE,1,0.847,2026-05-29 06:54:39
+ICICI Bank,"Stocks to watch: Zydus Life, IndiGo, RIL among 10 shares in focus today; check list here - Mint",NEUTRAL,0,0.92,2026-05-29 06:54:39
+ICICI Bank,"Markets Rally, But ICICI Bank Ltd. Sinks to 52-Week Low in Stock-Specific Sell-Off - Markets Mojo",NEGATIVE,-1,0.968,2026-05-29 06:54:39
+ICICI Bank,Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 29 May 2026 - Mint,NEUTRAL,0,0.934,2026-05-29 06:54:39
+Nifty 50,"Stock Market Live Updates Today: BSE Sensex opens above 76,100; Nifty50 near 24,000 as global crude oil prices drop - The Times of India",NEGATIVE,-1,0.945,2026-05-29 06:54:42
+Nifty 50,"Markets News Highlights: Sensex, Nifty Open Week Higher As Amid New Gulf Proposal - NDTV",NEUTRAL,0,0.521,2026-05-29 06:54:42
+Nifty 50,"Midday Update: Nifty 50 Holds Near 23,900 Amid Signs of U.S.-Iran Peace Deal; IT Stocks Jump 3% - Dalal Street Investment Journal",POSITIVE,1,0.886,2026-05-29 06:54:42
+Nifty 50,"Sensex Today | Stock Market Live: Sensex flat amid volatility, Nifty at 23,900; IndiGo slips ahead of earnings - Moneycontrol.com",NEGATIVE,-1,0.912,2026-05-29 06:54:42
+Nifty 50,India shares lower at close of trade; Nifty 50 down 0.03% - Investing.com India,NEGATIVE,-1,0.958,2026-05-29 06:54:42
+Nifty 50,"Sensex Today | Stock Market Highlights: Sensex tanks 1,456 points; Nifty ends below 23,400 - CNBC TV18",NEUTRAL,0,0.886,2026-05-29 06:54:42
+Nifty 50,"Why did the Nifty 50 drop over 100 points after reclaiming the 24,000 levels? Explained - Mint",NEUTRAL,0,0.552,2026-05-29 06:54:42
+Nifty 50,"Stock Market Update: Nifty 50, Sensex Likely to Open Lower Amid Global Uncerntainty - Analytics Insight",NEGATIVE,-1,0.962,2026-05-29 06:54:42
