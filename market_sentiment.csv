@@ -1,42 +1,49 @@
 Stock,Headline,Sentiment,Score,Confidence,Timestamp
-Infosys,"Wipro Shares Fall 4%; TCS, Infosys, HCL Drop Over 1% As Global IT Crashes - NDTV Profit",NEGATIVE,-1,0.971,2026-06-08 22:24:34
-Infosys,"TCS, Wipro to Infosys: IT stocks bleed on AI and tech stocks selloff in global markets; Nifty IT dips 2% - Mint",NEGATIVE,-1,0.971,2026-06-08 22:24:34
-Infosys,"Dividends this week: From Infosys to Tata Steel, 9 largecap stocks turn ex-dividend - Moneycontrol.com",NEUTRAL,0,0.928,2026-06-08 22:24:34
-Infosys,IT stocks crash up to 36% from Feb peak; should you buy? - Business Standard,POSITIVE,1,0.642,2026-06-08 22:24:34
-Infosys,Infosys executives to attend CLSA India GenAI Access Days - scanx.trade,NEUTRAL,0,0.943,2026-06-08 22:24:34
-Infosys,"Upcoming Dividend Stocks Next week: Infosys, Tata Chemicals, Adani Enterprises & 37 More in Focus - Groww",NEUTRAL,0,0.93,2026-06-08 22:24:34
-Infosys,Infosys Stock (INFY) Opinions on AI Initiatives and Weekly Performance - Quiver Quantitative,NEUTRAL,0,0.927,2026-06-08 22:24:34
-Infosys,"IT Stocks Extend Rout as TCS, Wipro, Infosys Decline Amid Global Tech Selloff, AI Concerns - HDFC Sky",NEGATIVE,-1,0.938,2026-06-08 22:24:34
-Reliance Industries,"Reliance Industries hits 52-week low, stock down 12% in one month - Business Standard",NEGATIVE,-1,0.973,2026-06-08 22:24:37
-Reliance Industries,"Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 82 stocks that hit 52-week low on NSE - Upstox",NEGATIVE,-1,0.844,2026-06-08 22:24:37
-Reliance Industries,"Reliance Industries share price tanks for 9th day in a row, erodes ₹129,000 crore in market cap - Mint",NEGATIVE,-1,0.858,2026-06-08 22:24:37
-Reliance Industries,"Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 67 stocks that hit 52-week low on NSE - India IPO",NEGATIVE,-1,0.926,2026-06-08 22:24:37
-Reliance Industries,Top Seven Companies Lose Rs 1.22 Lakh Crores as Stock Market Volatility Hits BSE Sensex - News On AIR,NEGATIVE,-1,0.949,2026-06-08 22:24:38
-Reliance Industries,"Volume Gainers Today: Reliance Industries, Eternal In Focus - HDFC Sky",NEUTRAL,0,0.783,2026-06-08 22:24:38
-Reliance Industries,Reliance Industries discloses presentation on related party transactions - scanx.trade,NEUTRAL,0,0.951,2026-06-08 22:24:38
-Reliance Industries,Reliance Industries dividend alert! Last date to buy shares of Mukesh Ambani-led company for Rs 6 final di - The Economic Times,NEUTRAL,0,0.884,2026-06-08 22:24:38
-HDFC Bank,HDFC Bank - FIIs cut stakes in 16 largecap stocks over two quarters; shares fall up to 40% - The Economic Times,NEGATIVE,-1,0.968,2026-06-08 22:24:40
-HDFC Bank,"Bank Stocks: Should you buy HDFC Bank, ICICI Bank, SBI and others in current market fall? - Zee Business",NEUTRAL,0,0.939,2026-06-08 22:24:40
-HDFC Bank,HDFC BANK LTD Share Price Today - Live HDFCBANK Stock Price for NSE/BSE - Upstox,NEUTRAL,0,0.948,2026-06-08 22:24:40
-HDFC Bank,"Most Active Equities Today, June 8, 2026: Reliance Industries, HDFC Bank, ICICI Bank Among Most Traded Stocks - HDFC Sky",NEUTRAL,0,0.924,2026-06-08 22:24:40
-HDFC Bank,"HDFCBANK Outlook for the Week (June 08, 2026 – June 12, 2026) - Equitypandit",NEUTRAL,0,0.896,2026-06-08 22:24:41
-HDFC Bank,"Vinay Rajani of HDFC Sec suggests Viyash Scientific, Federal Bank shares to buy in near-term - Mint",NEUTRAL,0,0.869,2026-06-08 22:24:41
-HDFC Bank,HDFC Bank shares drop 2% on reports of probe regarding Rs 45 crore interest payments; bank ‘strongly reje - The Times of India,NEGATIVE,-1,0.95,2026-06-08 22:24:41
-HDFC Bank,Where Will HDFC Bank Share Price be in the Next 3 Years? - Equitymaster,NEUTRAL,0,0.945,2026-06-08 22:24:41
-TCS,"TCS secures multimillion-euro AI deal from Canada Life, shares down - Upstox",NEGATIVE,-1,0.96,2026-06-08 22:24:43
-TCS,TCS Share Price Live Updates: TCS Stock Update: Current Price and Change - The Economic Times,NEUTRAL,0,0.941,2026-06-08 22:24:43
-TCS,"Nifty IT index tanks 9% in 4 days; Wipro, TCS down up to 6%; here's why - Business Standard",NEGATIVE,-1,0.952,2026-06-08 22:24:43
-TCS,"Wipro Shares Fall 4%; TCS, Infosys, HCL Drop Over 1% As Global IT Crashes - NDTV Profit",NEGATIVE,-1,0.971,2026-06-08 22:24:44
-TCS,"TCS shares slip 2%, down 12% in 4 straight sessions. What’s triggering the decline? - The Economic Times",NEGATIVE,-1,0.96,2026-06-08 22:24:44
-TCS,TCS Share Price Highlights: TCS Stock Price History - The Economic Times,NEUTRAL,0,0.935,2026-06-08 22:24:44
-TCS,TCS Share Price Highlights: TCS Stock Price History - The Economic Times,NEUTRAL,0,0.935,2026-06-08 22:24:44
-TCS,"Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 67 stocks that hit 52-week low on NSE - India IPO",NEGATIVE,-1,0.926,2026-06-08 22:24:44
-ICICI Bank,"Bank Stocks: Should you buy HDFC Bank, ICICI Bank, SBI and others in current market fall? - Zee Business",NEUTRAL,0,0.939,2026-06-08 22:24:47
-Nifty 50,"Stock Market Highlights Today: BSE Sensex ends over 700 points down, Nifty50 near 23,100 as fresh US-Israel-Iran tensions erupt; crude oil prices rise - The Times of India",NEGATIVE,-1,0.95,2026-06-08 22:24:50
-Nifty 50,The Art Of Staying Invested: What 20 Years Of Nifty50 Crashes Teach Us - NDTV,NEUTRAL,0,0.871,2026-06-08 22:24:50
-Nifty 50,"Share Market Today: Nifty 50, Bank Nifty Prediction | June 8, 2026 - Liquide Blog",NEUTRAL,0,0.868,2026-06-08 22:24:50
-Nifty 50,"Stock market crash: Sensex plunges 700 points, Nifty 50 below 23,150 — 5 key reasons behind D-Street fall - Mint",NEGATIVE,-1,0.877,2026-06-08 22:24:50
-Nifty 50,Stock Market: Sensex climbed 945 points & Nifty 50 rose 298 points - News On AIR,NEUTRAL,0,0.608,2026-06-08 22:24:50
-Nifty 50,"NIFTY50, SENSEX end 1% lower on June 8 as weak global cues dent investor sentiment - Upstox",NEGATIVE,-1,0.968,2026-06-08 22:24:50
-Nifty 50,"Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 8 June - Mint",NEUTRAL,0,0.906,2026-06-08 22:24:50
-Nifty 50,"Stock market crash today: Rs 5 lakh crore wealth gone! Why are BSE Sensex, Nifty50 down today? Top reason - The Times of India",NEGATIVE,-1,0.82,2026-06-08 22:24:50
+Infosys,IT stocks crash up to 36% from Feb peak; should you buy? - Business Standard,POSITIVE,1,0.642,2026-06-09 00:03:55
+Infosys,"Wipro Shares Fall 4%; TCS, Infosys, HCL Drop Over 1% As Global IT Crashes - NDTV Profit",NEGATIVE,-1,0.971,2026-06-09 00:03:55
+Infosys,"TCS, Wipro to Infosys: IT stocks bleed on AI and tech stocks selloff in global markets; Nifty IT dips 2% - Mint",NEGATIVE,-1,0.971,2026-06-09 00:03:55
+Infosys,"Dividends this week: From Infosys to Tata Steel, 9 largecap stocks turn ex-dividend - Moneycontrol.com",NEUTRAL,0,0.928,2026-06-09 00:03:55
+Infosys,Infosys executives to attend CLSA India GenAI Access Days - scanx.trade,NEUTRAL,0,0.943,2026-06-09 00:03:55
+Infosys,Infosys Stock (INFY) Opinions on AI Initiatives and Weekly Performance - Quiver Quantitative,NEUTRAL,0,0.927,2026-06-09 00:03:55
+Infosys,"Upcoming Dividend Stocks Next week: Infosys, Tata Chemicals, Adani Enterprises & 37 More in Focus - Groww",NEUTRAL,0,0.93,2026-06-09 00:03:55
+Infosys,"Dividend, stock split, bonus issue this week: Infosys, Adani Ent, Trent, Tata Elxsi, among others in focus - Upstox",NEUTRAL,0,0.903,2026-06-09 00:03:55
+Reliance Industries,"Reliance Industries hits 52-week low, stock down 12% in one month - Business Standard",NEGATIVE,-1,0.973,2026-06-09 00:03:58
+Reliance Industries,"Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 82 stocks that hit 52-week low on NSE - Upstox",NEGATIVE,-1,0.844,2026-06-09 00:03:58
+Reliance Industries,"Reliance Industries share price tanks for 9th day in a row, erodes ₹129,000 crore in market cap - Mint",NEGATIVE,-1,0.858,2026-06-09 00:03:58
+Reliance Industries,"Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 67 stocks that hit 52-week low on NSE - India IPO",NEGATIVE,-1,0.926,2026-06-09 00:03:58
+Reliance Industries,"Volume Gainers Today: Reliance Industries, Eternal In Focus - HDFC Sky",NEUTRAL,0,0.783,2026-06-09 00:03:58
+Reliance Industries,Top Seven Companies Lose Rs 1.22 Lakh Crores as Stock Market Volatility Hits BSE Sensex - News On AIR,NEGATIVE,-1,0.949,2026-06-09 00:03:58
+Reliance Industries,Reliance Industries discloses presentation on related party transactions - scanx.trade,NEUTRAL,0,0.951,2026-06-09 00:03:58
+Reliance Industries,Reliance Industries dividend alert! Last date to buy shares of Mukesh Ambani-led company for Rs 6 final di - The Economic Times,NEUTRAL,0,0.884,2026-06-09 00:03:59
+HDFC Bank,HDFC Bank - FIIs cut stakes in 16 largecap stocks over two quarters; shares fall up to 40% - The Economic Times,NEGATIVE,-1,0.968,2026-06-09 00:04:01
+HDFC Bank,HDFC Bank - Swiggy among 9 largecap stocks with up to 45% upside potential. Do you own any? - The Economic Times,NEUTRAL,0,0.849,2026-06-09 00:04:01
+HDFC Bank,"Most Active Equities Today, June 8, 2026: Reliance Industries, HDFC Bank, ICICI Bank Among Most Traded Stocks - HDFC Sky",NEUTRAL,0,0.924,2026-06-09 00:04:01
+HDFC Bank,"HDFCBANK Outlook for the Week (June 08, 2026 – June 12, 2026) - Equitypandit",NEUTRAL,0,0.896,2026-06-09 00:04:01
+HDFC Bank,"Vinay Rajani of HDFC Sec suggests Viyash Scientific, Federal Bank shares to buy in near-term - Mint",NEUTRAL,0,0.869,2026-06-09 00:04:01
+HDFC Bank,HDFC Bank shares drop 2% on reports of probe regarding Rs 45 crore interest payments; bank ‘strongly reje - The Times of India,NEGATIVE,-1,0.95,2026-06-09 00:04:01
+HDFC Bank,Where Will HDFC Bank Share Price be in the Next 3 Years? - Equitymaster,NEUTRAL,0,0.945,2026-06-09 00:04:02
+HDFC Bank,HDFC Bank falls 2.2% after claims of illegal payments to attract deposits - BusinessLine,NEGATIVE,-1,0.971,2026-06-09 00:04:02
+TCS,"TCS secures multimillion-euro AI deal from Canada Life, shares down - Upstox",NEGATIVE,-1,0.96,2026-06-09 00:04:04
+TCS,TCS Share Price Live Updates: TCS Stock Update: Current Price and Change - The Economic Times,NEUTRAL,0,0.941,2026-06-09 00:04:04
+TCS,"Nifty IT index tanks 9% in 4 days; Wipro, TCS down up to 6%; here's why - Business Standard",NEGATIVE,-1,0.952,2026-06-09 00:04:04
+TCS,"Wipro Shares Fall 4%; TCS, Infosys, HCL Drop Over 1% As Global IT Crashes - NDTV Profit",NEGATIVE,-1,0.971,2026-06-09 00:04:04
+TCS,"TCS shares slip 2%, down 12% in 4 straight sessions. What’s triggering the decline? - The Economic Times",NEGATIVE,-1,0.96,2026-06-09 00:04:04
+TCS,TCS Share Price Highlights: TCS Stock Price History - The Economic Times,NEUTRAL,0,0.935,2026-06-09 00:04:04
+TCS,TCS Share Price Highlights: TCS Stock Price History - The Economic Times,NEUTRAL,0,0.935,2026-06-09 00:04:05
+TCS,"TCS, Wipro Shares Hit 52-Week Low as AI Concerns and Global Tech Rout Weigh on IT Stocks - India Infoline",NEGATIVE,-1,0.88,2026-06-09 00:04:05
+ICICI Bank,"Bank Stocks: Should you buy HDFC Bank, ICICI Bank, SBI and others in current market fall? - Zee Business",NEUTRAL,0,0.939,2026-06-09 00:04:07
+ICICI Bank,"Most Active Equities Today, June 8, 2026: Reliance Industries, HDFC Bank, ICICI Bank Among Most Traded Stocks - HDFC Sky",NEUTRAL,0,0.924,2026-06-09 00:04:07
+ICICI Bank,ICICI Bank share price: Motilal Oswal sees 41% upside. Should you buy? - Mint,NEUTRAL,0,0.876,2026-06-09 00:04:07
+ICICI Bank,"Stocks to Watch, June 5: Rate sensitives, ICICI Bank, Tata Steel, Groww - Business Standard",NEUTRAL,0,0.915,2026-06-09 00:04:07
+ICICI Bank,ICICI Bank In Focus After Brokerage Upgrade: Key Factors Driving Analyst Optimism - Samco,NEUTRAL,0,0.658,2026-06-09 00:04:07
+ICICI Bank,Metro Brands meets 38 investors at ICICI Securities conference - scanx.trade,NEUTRAL,0,0.934,2026-06-09 00:04:07
+ICICI Bank,Five reasons why Motilal Oswal sees 41% upside in ICICI Bank shares - CNBC TV18,NEUTRAL,0,0.855,2026-06-09 00:04:08
+ICICI Bank,"Nomura raises ICICI Bank stock price target to INR1,620 on earnings - Investing.com",NEUTRAL,0,0.73,2026-06-09 00:04:08
+Nifty 50,"Stock Market Highlights Today: BSE Sensex ends over 700 points down, Nifty50 near 23,100 as fresh US-Israel-Iran tensions erupt; crude oil prices rise - The Times of India",NEGATIVE,-1,0.95,2026-06-09 00:04:10
+Nifty 50,The Art Of Staying Invested: What 20 Years Of Nifty50 Crashes Teach Us - NDTV,NEUTRAL,0,0.871,2026-06-09 00:04:10
+Nifty 50,"Sensex Today | Stock Market Highlights: Nifty ends 350 points lower but defends 23,800; Investors lose ₹6 lakh - CNBC TV18",NEGATIVE,-1,0.928,2026-06-09 00:04:10
+Nifty 50,"Sensex Today Tanks 719 Points | Nifty Below 23,150 | 5 Reasons Why Indian Share Markets are Falling - Equitymaster",NEGATIVE,-1,0.944,2026-06-09 00:04:10
+Nifty 50,"Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - Goodreturns",POSITIVE,1,0.792,2026-06-09 00:04:10
+Nifty 50,"Stock Market Opening Bell: Nifty 50 Falls 1.22%, Sensex Plummets 1.11% - Here's Why - Republic World",NEGATIVE,-1,0.873,2026-06-09 00:04:11
+Nifty 50,"Stock Market Update: Sensex Eyes 73,500 Support, Nifty Stuck at 23,750 EMA Hurdle Amid Bearish Weekly Candle - Analytics Insight",NEGATIVE,-1,0.893,2026-06-09 00:04:11
+Nifty 50,"Stock Market Highlights: BSE Sensex tanks 1,092 points; Nifty 50 slips below 23,600 - The Times of India",NEGATIVE,-1,0.813,2026-06-09 00:04:11
