@@ -1,49 +1,49 @@
 Stock,Headline,Sentiment,Score,Confidence,Timestamp
-Infosys,"Nifty IT falls 2%; Infosys, TCS, HCLTech, Wipro among top losers today as higher US rate fears cloud... - Moneycontrol.com",NEGATIVE,-1,0.945,2026-06-30 08:36:12
-Infosys,"IT stocks: TCS, Infosys, Persistent, Zensar Tech hit 52-week lows; decoding the crash - Business Today",NEGATIVE,-1,0.826,2026-06-30 08:36:12
-Infosys,"Nifty IT sinks 2% to 3-year low; TCS, Infosys, HCL Tech, LTM hit 52-wk lows - Business Standard",NEGATIVE,-1,0.959,2026-06-30 08:36:12
-Infosys,"TCS, Wipro & Infosys In Red, Nifty IT Hits Lowest Level Since April 2023 — Why Are IT Stocks Under Pressure? - NDTV Profit",NEGATIVE,-1,0.941,2026-06-30 08:36:12
-Infosys,"Nifty IT plunges over 2%; Infosys, LTIMindtree, TCS among top laggards - livemint.com",NEGATIVE,-1,0.896,2026-06-30 08:36:12
-Infosys,"SENSEX, NIFTY50 edge lower dragged down by losses in Infosys, Reliance Industries - Upstox",NEGATIVE,-1,0.965,2026-06-30 08:36:12
-Infosys,Infosys Stock Leads 3 Founder Led Picks For AI And Digital Growth - simplywall.st,NEUTRAL,0,0.684,2026-06-30 08:36:12
-Infosys,"Nifty IT hits fresh 52-week low as Infosys, TCS, Wipro & others tumble up to 3%. What's spooking investors - The Economic Times",NEGATIVE,-1,0.947,2026-06-30 08:36:12
-Reliance Industries,"SENSEX, NIFTY50 edge lower dragged down by losses in Infosys, Reliance Industries - Upstox",NEGATIVE,-1,0.965,2026-06-30 08:36:15
-Reliance Industries,Jio IPO: What is Project Jupiter? How Mukesh Ambani’s Reliance worked behind closed doors for India's big - The Times of India,NEUTRAL,0,0.935,2026-06-30 08:36:15
-Reliance Industries,Reliance Industries share price to be in focus on Thursday. Here's why - livemint.com,NEUTRAL,0,0.927,2026-06-30 08:36:15
-Reliance Industries,How Ambani built Project Jupiter to launch India’s biggest IPO - The Economic Times,NEUTRAL,0,0.909,2026-06-30 08:36:15
-Reliance Industries,IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC,NEUTRAL,0,0.893,2026-06-30 08:36:15
-Reliance Industries,"Indian equity benchmarks steady, rise in financials counters Mideast flare-up - Reuters",POSITIVE,1,0.557,2026-06-30 08:36:15
-Reliance Industries,"Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new... - Moneycontrol.com",POSITIVE,1,0.902,2026-06-30 08:36:15
-Reliance Industries,"Reliance Industries slides Monday, underperforms market - MarketWatch",POSITIVE,1,0.71,2026-06-30 08:36:15
-HDFC Bank,"Stocks to Watch Today: HDFC Bank, SJVN, Sterling and Wilson Renewable, Bandhan Bank, SIS, Indo Tech... - Moneycontrol.com",NEUTRAL,0,0.945,2026-06-30 08:36:18
-HDFC Bank,"Stocks to watch, June 30: HDFC Bank, Axis Bank, Bandhan Bank, SIS Ltd, YES Bank, infra stocks, EVs - Upstox",NEUTRAL,0,0.914,2026-06-30 08:36:18
-HDFC Bank,HDFC Bank shares rise as legal review finds no evidence backing ex-chairman’s allegations - BusinessLine,NEGATIVE,-1,0.838,2026-06-30 08:36:18
-HDFC Bank,"Buy, Sell Or Hold: HDFC Bank, BEL, Kalyan Jewellers, Ashok Leyland, Cipla And Waaree Energies — Ask Profit - NDTV Profit",NEUTRAL,0,0.937,2026-06-30 08:36:18
-HDFC Bank,HDFC Bank - Motilal Oswal's top 4 banking picks ahead of Q1 earnings season. Do you own any? - The Economic Times,NEUTRAL,0,0.902,2026-06-30 08:36:18
-HDFC Bank,"Stocks to watch: HDFC Bank, Bajaj Auto, Yes Bank among shares in focus today; check list here - livemint.com",NEUTRAL,0,0.935,2026-06-30 08:36:18
-HDFC Bank,"Stocks to Watch today: HDFC Bank, Biocon, SJVN, Container Corp, Yes Bank - Business Standard",NEUTRAL,0,0.928,2026-06-30 08:36:18
-HDFC Bank,"Stocks to Watch for June 30: Axis Bank, HDFC Bank, Bandhan Bank and more - CNBC TV18",NEUTRAL,0,0.943,2026-06-30 08:36:19
-TCS,"IT stocks: TCS, Infosys, Persistent, Zensar Tech hit 52-week lows; decoding the crash - Business Today",NEGATIVE,-1,0.826,2026-06-30 08:36:21
-TCS,"TCS, Wipro & Infosys In Red, Nifty IT Hits Lowest Level Since April 2023 — Why Are IT Stocks Under Pressure? - NDTV Profit",NEGATIVE,-1,0.941,2026-06-30 08:36:21
-TCS,"Nifty IT sinks 2% to 3-year low; TCS, Infosys, HCL Tech, LTM hit 52-wk lows - Business Standard",NEGATIVE,-1,0.959,2026-06-30 08:36:21
-TCS,"Nifty IT plunges over 2%; Infosys, LTIMindtree, TCS among top laggards - livemint.com",NEGATIVE,-1,0.896,2026-06-30 08:36:22
-TCS,"Nifty IT slumps 6%, Infosys, TCS stocks crash up to 8% as Accenture guidance cut sparks sell-off - Moneycontrol.com",NEGATIVE,-1,0.957,2026-06-30 08:36:22
-TCS,"TCS ties up with Anthropic to equip 50,000 employees with Claude; stock hits 52-week low - Upstox",POSITIVE,1,0.819,2026-06-30 08:36:22
-TCS,Why did TCS shares crash over 8% today? Stock logs worst single-day fall since Covid-era rout - The Times of India,NEGATIVE,-1,0.965,2026-06-30 08:36:22
-TCS,"Nifty IT hits fresh 52-week low as Infosys, TCS, Wipro & others tumble up to 3%. What's spooking investors - The Economic Times",NEGATIVE,-1,0.947,2026-06-30 08:36:22
-ICICI Bank,ICICI Bank fixes August 3 as record date for dividend of ₹12/share; check AGM schedule - Upstox,NEUTRAL,0,0.935,2026-06-30 08:36:25
-ICICI Bank,"SBI, HDFC Bank to ICICI Bank: Nuvama recommends these 12 banking stocks to buy today for long term - livemint.com",NEUTRAL,0,0.898,2026-06-30 08:36:25
-ICICI Bank,"ICICI Bank Share Slips 0.61%; Board Okays Vibha Paul Rishi’s Re-Appointment, Fixes Aug 21 AGM, Aug 3 Dividend Record Date - HDFC Sky",NEGATIVE,-1,0.912,2026-06-30 08:36:25
-ICICI Bank,Should you Buy on dips this time in the Stock Market during COVID? - ICICI Direct,NEUTRAL,0,0.93,2026-06-30 08:36:25
-ICICI Bank,"HDFC Bank, SBI, ICICI Bank, Bank of Baroda: Top baking stocks picks; check targets & more - Business Today",NEUTRAL,0,0.866,2026-06-30 08:36:25
-ICICI Bank,"Axis Bank, ICICI Bank, SBI, Federal Bank Among Anand Rathi's Top BFSI Bets — Check List - NDTV Profit",NEUTRAL,0,0.908,2026-06-30 08:36:25
-ICICI Bank,"Why Banking Stocks are rising today? HDFC, ICICI Bank rises 2% each - India Infoline",POSITIVE,1,0.708,2026-06-30 08:36:25
-ICICI Bank,"ICICI Bank leads ₹88,678 crore market cap surge among top firms - MSN",POSITIVE,1,0.91,2026-06-30 08:36:25
-Nifty 50,"Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Mixed Global Cues - NDTV",NEGATIVE,-1,0.592,2026-06-30 08:36:28
-Nifty 50,"Sensex Today | Stock Market Live: Sensex, Nifty trade marginally lower ahead of expiry; mid, smallcaps shine, IT drags - Moneycontrol.com",NEGATIVE,-1,0.917,2026-06-30 08:36:28
-Nifty 50,"Trade setup for June 30: Can NIFTY50 close above 24,200 on expiry day? - Upstox",NEUTRAL,0,0.798,2026-06-30 08:36:28
-Nifty 50,"Stock Market Highlights Today: BSE Sensex ends over 380 points up, Nifty50 crosses 23,450; IT stocks rally strongly - The Times of India",POSITIVE,1,0.916,2026-06-30 08:36:28
-Nifty 50,"Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",NEUTRAL,0,0.706,2026-06-30 08:36:28
-Nifty 50,"Stock Market Close: Sensex falls 1,092 pts; Nifty end at 23,548 amid US-Iran deal uncertainty - Business Standard",NEGATIVE,-1,0.954,2026-06-30 08:36:28
-Nifty 50,"Expert view: Nifty 50 may give negative returns in 2026, earnings may improve from Q3FY27, says Rahul Ghose of Hedged - livemint.com",POSITIVE,1,0.769,2026-06-30 08:36:28
-Nifty 50,Here's why the last 30 minutes are crucial for the Indian stock market today - CNBC TV18,NEUTRAL,0,0.924,2026-06-30 08:36:28
+Infosys,"Nifty IT falls 2%; Infosys, TCS, HCLTech, Wipro among top losers today as higher US rate fears cloud... - Moneycontrol.com",NEGATIVE,-1,0.945,2026-06-30 11:44:30
+Infosys,"IT stocks: TCS, Infosys, Persistent, Zensar Tech hit 52-week lows; decoding the crash - Business Today",NEGATIVE,-1,0.826,2026-06-30 11:44:30
+Infosys,"TCS, Wipro & Infosys In Red, Nifty IT Hits Lowest Level Since April 2023 — Why Are IT Stocks Under Pressure? - NDTV Profit",NEGATIVE,-1,0.941,2026-06-30 11:44:30
+Infosys,"Nifty IT sinks 2% to 3-year low; TCS, Infosys, HCL Tech, LTM hit 52-wk lows - Business Standard",NEGATIVE,-1,0.959,2026-06-30 11:44:30
+Infosys,"SENSEX, NIFTY50 edge lower dragged down by losses in Infosys, Reliance Industries - Upstox",NEGATIVE,-1,0.965,2026-06-30 11:44:31
+Infosys,"Nifty IT plunges over 2%; Infosys, LTIMindtree, TCS among top laggards - livemint.com",NEGATIVE,-1,0.896,2026-06-30 11:44:31
+Infosys,Infosys Stock Leads 3 Founder Led Picks For AI And Digital Growth - simplywall.st,NEUTRAL,0,0.684,2026-06-30 11:44:31
+Infosys,"Nifty IT hits fresh 52-week low as Infosys, TCS, Wipro & others tumble up to 3%. What's spooking investors - The Economic Times",NEGATIVE,-1,0.947,2026-06-30 11:44:31
+Reliance Industries,Jio IPO: What is Project Jupiter? How Mukesh Ambani’s Reliance worked behind closed doors for India's big - The Times of India,NEUTRAL,0,0.935,2026-06-30 11:44:33
+Reliance Industries,"SENSEX, NIFTY50 edge lower dragged down by losses in Infosys, Reliance Industries - Upstox",NEGATIVE,-1,0.965,2026-06-30 11:44:33
+Reliance Industries,Reliance Industries share price to be in focus on Thursday. Here's why - livemint.com,NEUTRAL,0,0.927,2026-06-30 11:44:34
+Reliance Industries,How Ambani built Project Jupiter to launch India’s biggest IPO - The Economic Times,NEUTRAL,0,0.909,2026-06-30 11:44:34
+Reliance Industries,IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC,NEUTRAL,0,0.893,2026-06-30 11:44:34
+Reliance Industries,"Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new... - Moneycontrol.com",POSITIVE,1,0.902,2026-06-30 11:44:34
+Reliance Industries,"Indian equity benchmarks steady, rise in financials counters Mideast flare-up - Reuters",POSITIVE,1,0.557,2026-06-30 11:44:34
+Reliance Industries,How Mukesh Ambani built Project Jupiter to launch India's biggest IPO - Business Standard,NEUTRAL,0,0.921,2026-06-30 11:44:34
+HDFC Bank,"HDFC Bank falls marginally after board names Rajiv Kumar as chairman, Jefferies bullish; check target... - Moneycontrol.com",NEGATIVE,-1,0.929,2026-06-30 11:44:36
+HDFC Bank,HDFC Bank shares rise as legal review finds no evidence backing ex-chairman’s allegations - BusinessLine,NEGATIVE,-1,0.838,2026-06-30 11:44:37
+HDFC Bank,"Stocks to Watch today: HDFC Bank, Biocon, SJVN, Container Corp, Yes Bank - Business Standard",NEUTRAL,0,0.928,2026-06-30 11:44:37
+HDFC Bank,"HDFC, Bandhan, And Yes Bank Shares In Red — Why Are They Lagging? - NDTV Profit",NEUTRAL,0,0.563,2026-06-30 11:44:37
+HDFC Bank,HDFC Bank - Motilal Oswal's top 4 banking picks ahead of Q1 earnings season. Do you own any? - The Economic Times,NEUTRAL,0,0.902,2026-06-30 11:44:37
+HDFC Bank,"SBI, HDFC Bank to ICICI Bank: Nuvama recommends these 12 banking stocks to buy today for long term - livemint.com",NEUTRAL,0,0.898,2026-06-30 11:44:37
+HDFC Bank,"Stocks to Watch for June 30: Axis Bank, HDFC Bank, Bandhan Bank and more - CNBC TV18",NEUTRAL,0,0.943,2026-06-30 11:44:37
+HDFC Bank,"Stocks to Watch Today: HDFC Bank, SJVN, Sterling and Wilson Renewable, Bandhan Bank, SIS, Indo Tech... - Moneycontrol.com",NEUTRAL,0,0.945,2026-06-30 11:44:37
+TCS,"IT stocks: TCS, Infosys, Persistent, Zensar Tech hit 52-week lows; decoding the crash - Business Today",NEGATIVE,-1,0.826,2026-06-30 11:44:40
+TCS,"TCS to Announce Q1 FY27 Financial Results on July 9, 2026 - scanx.trade",NEUTRAL,0,0.949,2026-06-30 11:44:40
+TCS,"TCS, Wipro & Infosys In Red, Nifty IT Hits Lowest Level Since April 2023 — Why Are IT Stocks Under Pressure? - NDTV Profit",NEGATIVE,-1,0.941,2026-06-30 11:44:40
+TCS,"Nifty IT falls 2%; Infosys, TCS, HCLTech, Wipro among top losers today as higher US rate fears cloud... - Moneycontrol.com",NEGATIVE,-1,0.945,2026-06-30 11:44:40
+TCS,"Nifty IT sinks 2% to 3-year low; TCS, Infosys, HCL Tech, LTM hit 52-wk lows - Business Standard",NEGATIVE,-1,0.959,2026-06-30 11:44:40
+TCS,"Nifty IT plunges over 2%; Infosys, LTIMindtree, TCS among top laggards - livemint.com",NEGATIVE,-1,0.896,2026-06-30 11:44:40
+TCS,"TCS ties up with Anthropic to equip 50,000 employees with Claude; stock hits 52-week low - Upstox",POSITIVE,1,0.819,2026-06-30 11:44:40
+TCS,"IT Stocks Sinks: TCS shares fall 9%, Nifty IT slides 6% - BusinessLine",NEGATIVE,-1,0.967,2026-06-30 11:44:40
+ICICI Bank,ICICI Bank fixes August 3 as record date for dividend of ₹12/share; check AGM schedule - Upstox,NEUTRAL,0,0.935,2026-06-30 11:44:43
+ICICI Bank,ICICI Bank - Motilal Oswal's top 4 banking picks ahead of Q1 earnings season. Do you own any? - The Economic Times,NEUTRAL,0,0.903,2026-06-30 11:44:43
+ICICI Bank,"SBI, HDFC Bank to ICICI Bank: Nuvama recommends these 12 banking stocks to buy today for long term - livemint.com",NEUTRAL,0,0.898,2026-06-30 11:44:43
+ICICI Bank,"ICICI Bank Share Slips 0.61%; Board Okays Vibha Paul Rishi’s Re-Appointment, Fixes Aug 21 AGM, Aug 3 Dividend Record Date - HDFC Sky",NEGATIVE,-1,0.912,2026-06-30 11:44:43
+ICICI Bank,Should you Buy on dips this time in the Stock Market during COVID? - ICICI Direct,NEUTRAL,0,0.93,2026-06-30 11:44:43
+ICICI Bank,"HDFC Bank, SBI, ICICI Bank, Bank of Baroda: Top baking stocks picks; check targets & more - Business Today",NEUTRAL,0,0.866,2026-06-30 11:44:43
+ICICI Bank,"Why Banking Stocks are rising today? HDFC, ICICI Bank rises 2% each - India Infoline",POSITIVE,1,0.708,2026-06-30 11:44:43
+ICICI Bank,"ICICI Bank leads ₹88,678 crore market cap surge among top firms - MSN",POSITIVE,1,0.91,2026-06-30 11:44:43
+Nifty 50,"Stock Market News Today Highlights: Nifty Settles Below 24,000, Sensex Down 300 Points; Auto, IT Top Drags - NDTV Profit",NEGATIVE,-1,0.967,2026-06-30 11:44:46
+Nifty 50,"Sensex Today | Stock Market Live: Sensex, Nifty trade marginally lower ahead of expiry; mid, smallcaps shine, IT drags - Moneycontrol.com",NEGATIVE,-1,0.917,2026-06-30 11:44:46
+Nifty 50,"Stock Market Highlights, Sensex Today: Sensex, Nifty Settle Flat After Trump Warns Iran 'Clock Is Ticking' - NDTV",NEGATIVE,-1,0.43,2026-06-30 11:44:46
+Nifty 50,Sensex today | Stock Market Highlights: Stock markets decline for 2nd day as IT shares lead losses - BusinessLine,NEGATIVE,-1,0.968,2026-06-30 11:44:46
+Nifty 50,"Stock Market Highlights Today: BSE Sensex ends over 380 points up, Nifty50 crosses 23,450; IT stocks rally strongly - The Times of India",POSITIVE,1,0.916,2026-06-30 11:44:46
+Nifty 50,"Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex swings between gains & losses, Nifty below 24... - The Economic Times",NEGATIVE,-1,0.856,2026-06-30 11:44:46
+Nifty 50,"NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on June 30 - Upstox",NEUTRAL,0,0.887,2026-06-30 11:44:47
+Nifty 50,India stocks lower at close of trade; Nifty 50 down 0.34% - Investing.com,NEGATIVE,-1,0.956,2026-06-30 11:44:47
