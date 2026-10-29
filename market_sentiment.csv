@@ -1,49 +1,49 @@
 Stock,Headline,Sentiment,Score,Confidence,Timestamp
-Infosys,"Sensex, Nifty open in red dragged by fall in IT stocks; Infosys down 5% - India Today",NEGATIVE,-1,0.966,2026-10-29 15:05:07
-Infosys,"Infosys shares shed ₹25,000 crore in market cap across two-day fall as AI trade rebounds - CNBC TV18",NEGATIVE,-1,0.94,2026-10-29 15:05:08
-Infosys,"Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why - Business Standard",NEGATIVE,-1,0.935,2026-10-29 15:05:08
-Infosys,"TCS, Infosys, HCL Tech: Anthropic revenue soars 14-fold in H1 2026 - Can Indian IT stocks benefit from AI boom? - Livemint",POSITIVE,1,0.846,2026-10-29 15:05:08
-Infosys,Infosys shares dip as lower growth outlook offsets strong deal wins - Yahoo Finance,NEGATIVE,-1,0.958,2026-10-29 15:05:08
-Infosys,Infosys shares fall 4% on conservative revenue growth outlook; focus on muted QoQ earnings - Upstox,NEGATIVE,-1,0.963,2026-10-29 15:05:08
-Infosys,Infosys shares fall 4% after FY27 revenue growth guidance cut - BusinessLine,NEGATIVE,-1,0.97,2026-10-29 15:05:08
-Infosys,"Stock market today: Sensex, Nifty flat as smallcaps rally and IT stocks fall - BusinessLine",NEGATIVE,-1,0.947,2026-10-29 15:05:08
-Reliance Industries,Reliance Industries Shares Fall 2% After Jio Platforms Listing; Q2 Results on October 30 - India Infoline,NEGATIVE,-1,0.942,2026-10-29 15:05:10
-Reliance Industries,Jio Platforms share price: What ₹100 movement in new Reliance Group stock means for RIL shares | Experts explain - Livemint,NEUTRAL,0,0.864,2026-10-29 15:05:11
-Reliance Industries,Reliance Industries shares slip 2% amid Jio Platforms IPO listing | Key RIL targets and levels to watch - Livemint,NEGATIVE,-1,0.944,2026-10-29 15:05:11
-Reliance Industries,"Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance UK",NEUTRAL,0,0.95,2026-10-29 15:05:11
-Reliance Industries,"Next Gen Leaders from the Ambani Family after Jio Platforms' blockbuster debut on stock exchanges on 28th October 2026 From Left to Right: Ashish Kumar Chauhan, MD&CEO, National Stock Exchange, Shloka Ambani, Akash Ambani, MD, Jio Platforms, An - Facebook",NEUTRAL,0,0.943,2026-10-29 15:05:11
-Reliance Industries,"Sensex, Nifty Rise as Reliance Industries and IT Stocks Gain; Crude Oil Limits Upside - India Infoline",POSITIVE,1,0.521,2026-10-29 15:05:11
-Reliance Industries,"Reliance Jio Platforms shares: After 26.68% IPO debut gains, jump 5% more - What should investors do? Buy more or exit? - TradingView",NEUTRAL,0,0.887,2026-10-29 15:05:11
-Reliance Industries,"Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters",POSITIVE,1,0.814,2026-10-29 15:05:11
-HDFC Bank,HDFC Bank shares recover from fresh 52-week low as buyers step in - BusinessLine,NEGATIVE,-1,0.882,2026-10-29 15:05:14
-HDFC Bank,HDFC Bank shares slips further as Bagchi takes charge amid leadership uncertainty - BusinessLine,NEGATIVE,-1,0.962,2026-10-29 15:05:14
-HDFC Bank,The task facing the new head of India’s biggest private bank - The Economist,NEUTRAL,0,0.925,2026-10-29 15:05:14
-HDFC Bank,"A banking giant, a battered stock: Can HDFC Bank’s new chief turn the tide? - The Economic Times",NEUTRAL,0,0.805,2026-10-29 15:05:14
-HDFC Bank,"HDFC Bank Stock Falls 2%, Yes Bank Shares Up 2% : Should You Buy Either Private Bank Stocks After Q2? - Goodreturns",NEUTRAL,0,0.682,2026-10-29 15:05:14
-HDFC Bank,"Markets recover early losses amid buying in IT stocks, HDFC Bank - The Hindu",NEGATIVE,-1,0.942,2026-10-29 15:05:14
-HDFC Bank,"HDFC Bank Q2 profit rises 5%, net interest income grows - Yahoo Finance",POSITIVE,1,0.946,2026-10-29 15:05:14
-HDFC Bank,"HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows - Business Standard",NEGATIVE,-1,0.931,2026-10-29 15:05:14
-TCS,"Stock Market Today: Sensex, Nifty Rise; Shares Of JIO, Power Grid, TCS Jump - ETV Bharat",POSITIVE,1,0.89,2026-10-29 15:05:17
-TCS,"TCS, Infosys, HCL Tech: Anthropic revenue soars 14-fold in H1 2026 - Can Indian IT stocks benefit from AI boom? - Livemint",POSITIVE,1,0.846,2026-10-29 15:05:17
-TCS,TCS Stock Price Recovers as IT Shares Gain After Wednesday’s Sell-Off - Coinpedia,POSITIVE,1,0.884,2026-10-29 15:05:17
-TCS,"Stock Market Highlights: Sensex Jumps 905 Points, Nifty 50 Ends Above 22,900; Adani Stocks, Kotak Bank Lead Rally - NDTV Profit",POSITIVE,1,0.873,2026-10-29 15:05:17
-TCS,"TCS Out, Jio In! Reliance Jio's listing shakes up India's rich list: IT major crashes out of top 5 as shares tumble 3.5% - TradingView",NEGATIVE,-1,0.946,2026-10-29 15:05:17
-TCS,"Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",NEUTRAL,0,0.678,2026-10-29 15:05:17
-TCS,"Sensex, Nifty trade higher after US Fed holds rates; crude oil remains a concern - India Today",POSITIVE,1,0.8,2026-10-29 15:05:17
-TCS,"TCS share price surges 28% in October, hits over 7-month high; here's why - Business Standard",POSITIVE,1,0.721,2026-10-29 15:05:17
-ICICI Bank,Mirae Asset Sharekhan Diwali Picks 2026: Top 9 Stocks with Up to 41 Percent Upside for Samvat 2083 - CNBC TV18,POSITIVE,1,0.81,2026-10-29 15:05:20
-ICICI Bank,"Top stocks to buy for long term: Pankaj Pandey of ICICI Securities suggests Crompton Greaves, Kotak Bank, 3 others - Livemint",NEUTRAL,0,0.878,2026-10-29 15:05:20
-ICICI Bank,"Airtel, ICICI Bank, L&T, Titan, Dee Development among brokerage's top Diwali 2026 picks - Business Today",POSITIVE,1,0.621,2026-10-29 15:05:20
-ICICI Bank,Central Bank of India holds analyst meet with Kotak and ICICI Securities - scanx.trade,NEUTRAL,0,0.941,2026-10-29 15:05:20
-ICICI Bank,ICICIBANK Outlook for the Week - Equitypandit,NEUTRAL,0,0.913,2026-10-29 15:05:20
-ICICI Bank,JPMorgan raises ICICI Bank stock price target on strong earnings By Investing.com - Investing.com India,NEUTRAL,0,0.662,2026-10-29 15:05:20
-ICICI Bank,"Stock Market Top 10 Rankings Shift: Jio Becomes No. 2; RIL, Airtel, TCS, ICICI, Infosys Lose Rs 97,000 Crore - Goodreturns",NEGATIVE,-1,0.464,2026-10-29 15:05:20
-ICICI Bank,"ICICI Bank stock gains over 1% after Q1 beat; brokerages bullish on sustained growth, see up to 18% upside - Moneycontrol.com",POSITIVE,1,0.926,2026-10-29 15:05:20
-Nifty 50,"Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",POSITIVE,1,0.701,2026-10-29 15:05:23
-Nifty 50,"Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",NEGATIVE,-1,0.774,2026-10-29 15:05:23
-Nifty 50,- The HinduBusinessLine - BusinessLine,NEUTRAL,0,0.946,2026-10-29 15:05:23
-Nifty 50,"Sensex, Nifty Rise as Reliance Industries and IT Stocks Gain; Crude Oil Limits Upside - India Infoline",POSITIVE,1,0.521,2026-10-29 15:05:23
-Nifty 50,"Stock market prediction for Monday Oct 26: Sensex, Nifty levels, top stocks to watch - Will bulls dance again? - TradingView",NEUTRAL,0,0.857,2026-10-29 15:05:23
-Nifty 50,"Stock Market Highlights: Nifty below 22,700, Sensex falls 460 points; auto, FMCG, IT stocks drag - CNBC TV18",NEGATIVE,-1,0.525,2026-10-29 15:05:23
-Nifty 50,Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India,NEGATIVE,-1,0.943,2026-10-29 15:05:23
-Nifty 50,"Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 299 pts higher, Nifty above 23,400; metal ... - The Economic Times",POSITIVE,1,0.867,2026-10-29 15:05:23
+Infosys,"Sensex, Nifty open in red dragged by fall in IT stocks; Infosys down 5% - India Today",NEGATIVE,-1,0.966,2026-10-29 20:51:45
+Infosys,"Infosys shares shed ₹25,000 crore in market cap across two-day fall as AI trade rebounds - CNBC TV18",NEGATIVE,-1,0.94,2026-10-29 20:51:45
+Infosys,"Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why - Business Standard",NEGATIVE,-1,0.935,2026-10-29 20:51:45
+Infosys,"Stock market today: Sensex, Nifty flat as smallcaps rally and IT stocks fall - BusinessLine",NEGATIVE,-1,0.947,2026-10-29 20:51:46
+Infosys,"Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",NEUTRAL,0,0.678,2026-10-29 20:51:46
+Infosys,"Infosys stock falls after Q2 earnings miss, guidance cut, but pares loss to 1%; brokerages see margin... - Moneycontrol.com",NEGATIVE,-1,0.964,2026-10-29 20:51:46
+Infosys,"Infosys shares drop 4% on Q2, guidance miss; here's what analysts recommend - Business Standard",NEGATIVE,-1,0.959,2026-10-29 20:51:46
+Infosys,Infosys shares dip as lower growth outlook offsets strong deal wins - Investing.com India,NEGATIVE,-1,0.945,2026-10-29 20:51:46
+Reliance Industries,Reliance Industries Shares Fall 2% After Jio Platforms Listing; Q2 Results on October 30 - India Infoline,NEGATIVE,-1,0.942,2026-10-29 20:51:48
+Reliance Industries,Jio Platforms share price: What ₹100 movement in new Reliance Group stock means for RIL shares | Experts explain - Livemint,NEUTRAL,0,0.864,2026-10-29 20:51:48
+Reliance Industries,Reliance Industries shares slip 2% amid Jio Platforms IPO listing | Key RIL targets and levels to watch - Livemint,NEGATIVE,-1,0.944,2026-10-29 20:51:49
+Reliance Industries,"Next Gen Leaders from the Ambani Family after Jio Platforms' blockbuster debut on stock exchanges on 28th October 2026 From Left to Right: Ashish Kumar Chauhan, MD&CEO, National Stock Exchange, Shloka Ambani, Akash Ambani, MD, Jio Platforms, An - Facebook",NEUTRAL,0,0.943,2026-10-29 20:51:49
+Reliance Industries,"Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters",POSITIVE,1,0.814,2026-10-29 20:51:49
+Reliance Industries,RIL Q2 Results Preview: Profit outlook brightens as O2C business set to drive growth - The Economic Times,POSITIVE,1,0.894,2026-10-29 20:51:49
+Reliance Industries,"Reliance Jio Platforms shares: After 26.68% IPO debut gains, jump 5% more - What should investors do? Buy more or exit? - TradingView",NEUTRAL,0,0.887,2026-10-29 20:51:49
+Reliance Industries,Jio Platforms listing could mark a transformative moment for the Indian bourses. Nigel Dsouza tells you all you need to know about the $100 bn market debut. #Watch #JioPlatforms #JioIPO #RelianceIndustries #StockMarket #BSE #NSE #IPONews #MarketDe - LinkedIn,NEUTRAL,0,0.88,2026-10-29 20:51:49
+HDFC Bank,HDFC Bank shares recover from fresh 52-week low as buyers step in - BusinessLine,NEGATIVE,-1,0.882,2026-10-29 20:51:52
+HDFC Bank,HDFC Bank shares steady as Bagchi takes charge as MD & CEO - BusinessLine,POSITIVE,1,0.673,2026-10-29 20:51:52
+HDFC Bank,The task facing the new head of India’s biggest private bank - The Economist,NEUTRAL,0,0.925,2026-10-29 20:51:52
+HDFC Bank,"A banking giant, a battered stock: Can HDFC Bank’s new chief turn the tide? - The Economic Times",NEUTRAL,0,0.805,2026-10-29 20:51:52
+HDFC Bank,"Markets recover early losses amid buying in IT stocks, HDFC Bank - The Hindu",NEGATIVE,-1,0.942,2026-10-29 20:51:52
+HDFC Bank,"HDFC Bank Stock Falls 2%, Yes Bank Shares Up 2% : Should You Buy Either Private Bank Stocks After Q2? - Goodreturns",NEUTRAL,0,0.682,2026-10-29 20:51:52
+HDFC Bank,"HDFC Bank Q2 profit rises 5%, net interest income grows - Yahoo Finance",POSITIVE,1,0.946,2026-10-29 20:51:52
+HDFC Bank,"HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows - Business Standard",NEGATIVE,-1,0.931,2026-10-29 20:51:52
+TCS,"Stock Market Today: Sensex, Nifty Rise; Shares Of JIO, Power Grid, TCS Jump - ETV Bharat",POSITIVE,1,0.89,2026-10-29 20:51:55
+TCS,"Stock Market Highlights: Sensex Jumps 905 Points, Nifty 50 Ends Above 22,900; Adani Stocks, Kotak Bank Lead Rally - NDTV Profit",POSITIVE,1,0.873,2026-10-29 20:51:55
+TCS,TCS Stock Price Recovers as IT Shares Gain After Wednesday’s Sell-Off - Coinpedia,POSITIVE,1,0.884,2026-10-29 20:51:55
+TCS,"TCS, Infosys, HCL Tech: Anthropic revenue soars 14-fold in H1 2026 - Can Indian IT stocks benefit from AI boom? - Livemint",POSITIVE,1,0.846,2026-10-29 20:51:55
+TCS,"TCS Out, Jio In! Reliance Jio's listing shakes up India's rich list: IT major crashes out of top 5 as shares tumble 3.5% - TradingView",NEGATIVE,-1,0.946,2026-10-29 20:51:55
+TCS,"Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",NEUTRAL,0,0.678,2026-10-29 20:51:55
+TCS,"TCS share price surges 28% in October, hits over 7-month high; here's why - Business Standard",POSITIVE,1,0.721,2026-10-29 20:51:55
+TCS,"Sensex, Nifty trade higher after US Fed holds rates; crude oil remains a concern - India Today",POSITIVE,1,0.8,2026-10-29 20:51:55
+ICICI Bank,"9 Stocks To Buy For Diwali 2026: Sharekhan Bullish on ICICI Bank, L&T, Airtel; up to 41.45% Upside - CNBC TV18",POSITIVE,1,0.848,2026-10-29 20:51:58
+ICICI Bank,"Top stocks to buy for long term: Pankaj Pandey of ICICI Securities suggests Crompton Greaves, Kotak Bank, 3 others - Livemint",NEUTRAL,0,0.878,2026-10-29 20:51:58
+ICICI Bank,"Airtel, ICICI Bank, L&T, Titan, Dee Development among brokerage's top Diwali 2026 picks - Business Today",POSITIVE,1,0.621,2026-10-29 20:51:58
+ICICI Bank,Wall Street Analysts Predict a 25.44% Upside in ICICI Bank (IBN): Here's What You Should Know - Yahoo Finance,POSITIVE,1,0.576,2026-10-29 20:51:58
+ICICI Bank,"Buy, Sell Or Hold: ICICI Bank, Hyundai Motor, Trent, Tata Steel, Schaeffler India And L&T Finance — Ask Profit - NDTV Profit",NEUTRAL,0,0.946,2026-10-29 20:51:58
+ICICI Bank,Central Bank of India holds analyst meet with Kotak and ICICI Securities - scanx.trade,NEUTRAL,0,0.941,2026-10-29 20:51:59
+ICICI Bank,Here's why Kotak Neo recommends 'Buy' rating on ICICI Bank; 'Add' Nykaa - Business Standard,NEUTRAL,0,0.714,2026-10-29 20:51:59
+ICICI Bank,"ICICI Bank stock falls 1% after Q2 results, among top Nifty losers; brokerages bullish on growth,... - Moneycontrol.com",NEGATIVE,-1,0.961,2026-10-29 20:51:59
+Nifty 50,"Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",NEGATIVE,-1,0.774,2026-10-29 20:52:01
+Nifty 50,"Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",POSITIVE,1,0.535,2026-10-29 20:52:02
+Nifty 50,"Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",NEUTRAL,0,0.678,2026-10-29 20:52:02
+Nifty 50,"Stock Market Today Highlights, Sept 24: Dalal Street hit by crude fire, US yield surge, Nifty closes 1.64% lower at 23,063, Sensex lost 1247 points - BusinessLine",NEGATIVE,-1,0.955,2026-10-29 20:52:02
+Nifty 50,"Stock Market Close: Sensex declines for 2nd day, ends 539 pts lower; Nifty settles at 24,091 - Business Standard",NEGATIVE,-1,0.961,2026-10-29 20:52:02
+Nifty 50,"Sensex, Nifty Rise as Reliance Industries and IT Stocks Gain; Crude Oil Limits Upside - India Infoline",POSITIVE,1,0.521,2026-10-29 20:52:02
+Nifty 50,"Stock Market Highlights: Nifty below 22,700, Sensex falls 460 points; auto, FMCG, IT stocks drag - CNBC TV18",NEGATIVE,-1,0.525,2026-10-29 20:52:02
+Nifty 50,Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India,NEGATIVE,-1,0.943,2026-10-29 20:52:02
