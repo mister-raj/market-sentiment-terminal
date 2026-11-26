@@ -1,49 +1,49 @@
 Stock,Headline,Sentiment,Score,Confidence,Timestamp
-Infosys,Infosys Becomes World's First Company to Achieve CMMI AI Maturity Level 5; Shares Rise 2.77% - HDFC Sky,POSITIVE,1,0.874,2026-11-26 01:31:28
-Infosys,"IT Stocks Rally Despite Global AI Selloff: Infosys, TCS Lead Gains - NiftyTrader",POSITIVE,1,0.874,2026-11-26 01:31:28
-Infosys,Infosys Ltd. ADR outperforms market on strong trading day - MarketWatch,POSITIVE,1,0.838,2026-11-26 01:31:28
-Infosys,"Infosys, Mphasis, TCS: IT stocks rally over 4% intraday, NIFTY IT gains 2.6%; what’s powering today’s momentum? - Upstox",POSITIVE,1,0.781,2026-11-26 01:31:28
-Infosys,"TCS, Infosys, Wipro push Nifty IT past 32,200 levels - India Infoline",NEUTRAL,0,0.805,2026-11-26 01:31:28
-Infosys,"NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys - TradingView",POSITIVE,1,0.945,2026-11-26 01:31:28
-Infosys,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers - Moneycontrol.com",POSITIVE,1,0.887,2026-11-26 01:31:28
-Infosys,"Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo",POSITIVE,1,0.886,2026-11-26 01:31:28
-Reliance Industries,"ICICI Bank, HDFC Bank, Reliance, and Airtel lead Nifty to 45% rally - India Infoline",POSITIVE,1,0.834,2026-11-26 01:31:31
-Reliance Industries,"Reliance Industries Share Price Dips After Rally Despite Record Q2 FY27 Profit Of ₹29,550 Crore - Kotak Neo",NEGATIVE,-1,0.954,2026-11-26 01:31:31
-Reliance Industries,"RIL shares skyrocket 11.6% to ₹1,300: Q2 earnings fire up the market heavyweight; m-cap tops ₹17.59 lakh crore - Upstox",POSITIVE,1,0.929,2026-11-26 01:31:31
-Reliance Industries,"Reliance Industries down 2%, at 17-month low; what's making Street nervous? - Business Standard",NEGATIVE,-1,0.966,2026-11-26 01:31:31
-Reliance Industries,Reliance Industries Shares Hit 52-Week High as JPMorgan Turns Bullish on 2026 Outlook - NiftyTrader,POSITIVE,1,0.86,2026-11-26 01:31:31
-Reliance Industries,RELIANCE INDUSTRIES LIMITED (RIGD) Equity Price and Quote - London Stock Exchange,NEUTRAL,0,0.943,2026-11-26 01:31:31
-Reliance Industries,"Reliance Share Price Hits 52-Week Low Below ₹1,200: Why RIL Stock Is Falling - Kotak Neo",NEGATIVE,-1,0.892,2026-11-26 01:31:31
-Reliance Industries,Reliance Industries Shares Fall 2% After Jio Platforms Listing; Q2 Results on October 30 - India Infoline,NEGATIVE,-1,0.942,2026-11-26 01:31:31
-HDFC Bank,"Bank Nifty Jumps Over 1,100 Points Today as HDFC Bank and ICICI Bank Shares Rally Over 3%; Private Banks Lead Gains - Kotak Neo",POSITIVE,1,0.908,2026-11-26 01:31:34
-HDFC Bank,HDFC Bank shares surge 4% as banking stocks stage sharp recovery - BusinessLine,POSITIVE,1,0.929,2026-11-26 01:31:34
-HDFC Bank,"ICICI Bank, HDFC Bank, Reliance, and Airtel lead Nifty to 45% rally - India Infoline",POSITIVE,1,0.834,2026-11-26 01:31:34
-HDFC Bank,"Sensex Jumps 1,502 Points; Nifty Surges 470 on FII Buying - HDFC Sky",POSITIVE,1,0.901,2026-11-26 01:31:34
-HDFC Bank,HDFC Bank jumps 18% as Bank Nifty hits a record. Has it recovered its 2026 losses? - Upstox,POSITIVE,1,0.892,2026-11-26 01:31:34
-HDFC Bank,HDFC Bank Ltd Stock (HDB) Moved Up by 3.21% on Nov 25: A Full Analysis - TradingKey,POSITIVE,1,0.949,2026-11-26 01:31:34
-HDFC Bank,"ITC Limited, HDFC Bank, NMDC Limited post divergent returns - Multibagg AI",NEUTRAL,0,0.909,2026-11-26 01:31:34
-HDFC Bank,"Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says - Reuters",POSITIVE,1,0.918,2026-11-26 01:31:34
-TCS,"TCS Share Price Jumps Nearly 5% to ₹2,493 Today as Indian IT Stocks Defy Nvidia-Led Global Tech Sell-Off - Kotak Neo",POSITIVE,1,0.828,2026-11-26 01:31:36
-TCS,"IT Stocks Rally Despite Global AI Selloff: Infosys, TCS Lead Gains - NiftyTrader",POSITIVE,1,0.874,2026-11-26 01:31:36
-TCS,"TCS, Infosys, Wipro push Nifty IT past 32,200 levels - India Infoline",NEUTRAL,0,0.805,2026-11-26 01:31:36
-TCS,"Infosys, Mphasis, TCS: IT stocks rally over 4% intraday, NIFTY IT gains 2.6%; what’s powering today’s momentum? - Upstox",POSITIVE,1,0.781,2026-11-26 01:31:37
-TCS,Why TCS Share Price is Rising - Equitymaster,NEUTRAL,0,0.805,2026-11-26 01:31:37
-TCS,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers - Moneycontrol.com",POSITIVE,1,0.887,2026-11-26 01:31:37
-TCS,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers - TradingView",POSITIVE,1,0.915,2026-11-26 01:31:37
-TCS,TCS gains 4% as Nvidia-led tech sell-off sparks buying in Indian IT stocks - CNBC TV18,POSITIVE,1,0.829,2026-11-26 01:31:37
-ICICI Bank,"ICICI Bank rallies 4%, hits all-time high; market cap nears ₹12 trillion - Business Standard",POSITIVE,1,0.921,2026-11-26 01:31:39
-ICICI Bank,"HDFC Bank, ICICI Bank shares trade at a discount to global peers despite rally: Jefferies - The Economic Times",NEUTRAL,0,0.83,2026-11-26 01:31:39
-ICICI Bank,"Bank Nifty jumps nearly 1,300 pts as HDFC Bank, ICICI Bank rally over 3% each; private lenders lead gains - Moneycontrol.com",POSITIVE,1,0.819,2026-11-26 01:31:39
-ICICI Bank,"Sensex crashes 1,484 points, Nifty falls below 25,350 as banking stocks drag markets - Telegraph India",NEGATIVE,-1,0.904,2026-11-26 01:31:39
-ICICI Bank,ICICI Bank shares at record high — Here's why JPMorgan rates it its top pick - CNBC TV18,NEUTRAL,0,0.843,2026-11-26 01:31:39
-ICICI Bank,NSE shares hits record high after ICICI Securities initiates covergare with 'BUY' rating - India Infoline,NEUTRAL,0,0.572,2026-11-26 01:31:39
-ICICI Bank,"HDFC Bank, ICICI Bank, Axis Bank shares surge; banking index zooms 18% in a month: What should investors do? - Business Today",POSITIVE,1,0.542,2026-11-26 01:31:40
-ICICI Bank,HDFC Bank vs ICICI Bank vs Axis Bank shares: Best banking stock to buy amid Bank Nifty bull run? What market experts say - Livemint,NEUTRAL,0,0.866,2026-11-26 01:31:40
-Nifty 50,"Stock market today: Sensex jumps over 2000 points; Nifty50 tops 25,900! Investors richer by Rs 3.84 lakh - The Times of India",POSITIVE,1,0.787,2026-11-26 01:31:42
-Nifty 50,Trade Setup for November 26: Top 15 things to know before the opening bell - Moneycontrol.com,NEUTRAL,0,0.936,2026-11-26 01:31:42
-Nifty 50,"Sensex Today | Nifty 50 | Stock Market Highlights: Sensex zooms 1,109 pts, Nifty ends above 22,700; HUL, Bajaj Auto jump 3% each - The Economic Times",POSITIVE,1,0.533,2026-11-26 01:31:42
-Nifty 50,"Stock Market Today: Gift Nifty To Nasdaq, Kospi Selloff; Five Key Factors For Sensex, Nifty 50 On Nov 25 - NDTV Profit",POSITIVE,1,0.82,2026-11-26 01:31:42
-Nifty 50,"Sensex jumps over 1500 points, Nifty gains 1.7% as banking and IT stocks lead market rally - Firstpost",POSITIVE,1,0.911,2026-11-26 01:31:42
-Nifty 50,"Market wrap: NIFTY50 jumps 469 points, SENSEX hits 84,000; midcap and small cap stocks struggle - Upstox",POSITIVE,1,0.769,2026-11-26 01:31:42
-Nifty 50,"Stock market outlook today,26 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",NEUTRAL,0,0.843,2026-11-26 01:31:42
-Nifty 50,"Stock Market Today Highlights: BSE Sensex surges nearly 990 points to close above 83,000; Nifty rallies past 25,500 - The Times of India",POSITIVE,1,0.89,2026-11-26 01:31:43
+Infosys,"Infosys Limited (INFY) stock price, news, quote and history - Yahoo Finance Singapore",NEUTRAL,0,0.949,2026-11-26 10:26:09
+Infosys,Zaggle Prepaid shares rally 13% on entering into five-year agreement with Infosys; key details - Upstox,POSITIVE,1,0.791,2026-11-26 10:26:09
+Infosys,Rupee recovery spells margin pressure for IT; Infosys stands out: Jefferies - Business Standard,NEGATIVE,-1,0.707,2026-11-26 10:26:09
+Infosys,"Nifty IT jumps over 2% as Wipro, Infosys, HCL Tech rally; Indian IT stocks defy global AI weakness - Moneycontrol.com",POSITIVE,1,0.892,2026-11-26 10:26:09
+Infosys,Infosys Becomes World's First Company to Achieve CMMI AI Maturity Level 5; Shares Rise 2.77% - HDFC Sky,POSITIVE,1,0.874,2026-11-26 10:26:09
+Infosys,Infosys Ltd. ADR outperforms market on strong trading day - MarketWatch,POSITIVE,1,0.838,2026-11-26 10:26:09
+Infosys,"IT Stocks Rally Despite Global AI Selloff: Infosys, TCS Lead Gains - NiftyTrader",POSITIVE,1,0.874,2026-11-26 10:26:09
+Infosys,"TCS, Infosys, Wipro push Nifty IT past 32,200 levels - India Infoline",NEUTRAL,0,0.805,2026-11-26 10:26:09
+Reliance Industries,"Reliance Industries Share Price Dips After Rally Despite Record Q2 FY27 Profit Of ₹29,550 Crore - Kotak Neo",NEGATIVE,-1,0.954,2026-11-26 10:26:11
+Reliance Industries,"ICICI Bank, HDFC Bank, Reliance, and Airtel lead Nifty to 45% rally - India Infoline",POSITIVE,1,0.834,2026-11-26 10:26:11
+Reliance Industries,"RIL shares skyrocket 11.6% to ₹1,300: Q2 earnings fire up the market heavyweight; m-cap tops ₹17.59 lakh crore - Upstox",POSITIVE,1,0.929,2026-11-26 10:26:11
+Reliance Industries,"Reliance Industries down 2%, at 17-month low; what's making Street nervous? - Business Standard",NEGATIVE,-1,0.966,2026-11-26 10:26:11
+Reliance Industries,Reliance vs ONGC: Oil and Gas Stocks Compared 2027 - Univest,NEUTRAL,0,0.83,2026-11-26 10:26:12
+Reliance Industries,Reliance Industries Shares Hit 52-Week High as JPMorgan Turns Bullish on 2026 Outlook - NiftyTrader,POSITIVE,1,0.86,2026-11-26 10:26:12
+Reliance Industries,RELIANCE INDUSTRIES LIMITED (RIGD) Equity Price and Quote - London Stock Exchange,NEUTRAL,0,0.943,2026-11-26 10:26:12
+Reliance Industries,Reliance Industries Share Price Hits 52-Week Low: 5 Reasons Behind The RIL Stock Decline - Kotak Neo,NEGATIVE,-1,0.872,2026-11-26 10:26:12
+HDFC Bank,HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking - Business Standard,POSITIVE,1,0.951,2026-11-26 10:26:14
+HDFC Bank,HDFC Bank shares surge 4% as banking stocks stage sharp recovery - BusinessLine,POSITIVE,1,0.929,2026-11-26 10:26:14
+HDFC Bank,"HDFC Bank, ICICI Bank shares trade at a discount to global peers despite rally: Jefferies - The Economic Times",NEUTRAL,0,0.83,2026-11-26 10:26:14
+HDFC Bank,HDFC Bank vs ICICI Bank vs Axis Bank shares: Best banking stock to buy amid Bank Nifty bull run? What market experts say - Livemint,NEUTRAL,0,0.866,2026-11-26 10:26:14
+HDFC Bank,"Top stocks to watch today: Bharti Airtel, HDFC Bank, LG Electronics, Lupin, Alembic Pharma, KSB and 7 others in focus - Livemint",NEUTRAL,0,0.894,2026-11-26 10:26:14
+HDFC Bank,"HDFC Bank, ICICI Bank, Axis Bank shares surge; banking index zooms 18% in a month: What should investors do? - Business Today",POSITIVE,1,0.542,2026-11-26 10:26:14
+HDFC Bank,HDFC Bank shares rise 2.5% as board approves key Director re-appointment - BusinessLine,POSITIVE,1,0.85,2026-11-26 10:26:14
+HDFC Bank,"Bank Nifty jumps nearly 1,300 pts as HDFC Bank, ICICI Bank rally over 3% each; private lenders lead gains - Moneycontrol.com",POSITIVE,1,0.819,2026-11-26 10:26:15
+TCS,"TCS Share Price Jumps Nearly 5% to ₹2,493 Today as Indian IT Stocks Defy Nvidia-Led Global Tech Sell-Off - Kotak Neo",POSITIVE,1,0.828,2026-11-26 10:26:17
+TCS,"Titan, Trent, TCS, Indian Hotels: Tata Group stocks in focus ahead of Nov 30 board meet; latest developments - Upstox",NEUTRAL,0,0.903,2026-11-26 10:26:17
+TCS,"IT Stocks Rally Despite Global AI Selloff: Infosys, TCS Lead Gains - NiftyTrader",POSITIVE,1,0.874,2026-11-26 10:26:17
+TCS,Why TCS Share Price is Rising - Equitymaster,NEUTRAL,0,0.805,2026-11-26 10:26:17
+TCS,"TCS, Infosys, Wipro push Nifty IT past 32,200 levels - India Infoline",NEUTRAL,0,0.805,2026-11-26 10:26:17
+TCS,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers - Moneycontrol.com",POSITIVE,1,0.887,2026-11-26 10:26:17
+TCS,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers - TradingView",POSITIVE,1,0.915,2026-11-26 10:26:17
+TCS,TCS Share Price - Upstox,NEUTRAL,0,0.926,2026-11-26 10:26:17
+ICICI Bank,"ICICI Bank rallies 4%, hits all-time high; market cap nears ₹12 trillion - Business Standard",POSITIVE,1,0.921,2026-11-26 10:26:20
+ICICI Bank,"HDFC Bank, ICICI Bank shares trade at a discount to global peers despite rally: Jefferies - The Economic Times",NEUTRAL,0,0.83,2026-11-26 10:26:20
+ICICI Bank,"MCX, ICICI Bank, Laurus Labs: 8 stocks that hit record highs on November 26; here’s what charts show - Upstox",NEUTRAL,0,0.88,2026-11-26 10:26:20
+ICICI Bank,HDFC Bank vs ICICI Bank vs Axis Bank shares: Best banking stock to buy amid Bank Nifty bull run? What market experts say - Livemint,NEUTRAL,0,0.866,2026-11-26 10:26:20
+ICICI Bank,ICICI Bank shares at record high — Here's why JPMorgan rates it its top pick - CNBC TV18,NEUTRAL,0,0.843,2026-11-26 10:26:20
+ICICI Bank,"Bank Nifty jumps nearly 1,300 pts as HDFC Bank, ICICI Bank rally over 3% each; private lenders lead gains - Moneycontrol.com",POSITIVE,1,0.819,2026-11-26 10:26:20
+ICICI Bank,NSE shares hits record high after ICICI Securities initiates covergare with 'BUY' rating - India Infoline,NEUTRAL,0,0.572,2026-11-26 10:26:20
+ICICI Bank,"HDFC Bank, ICICI Bank, Axis Bank shares surge; banking index zooms 18% in a month: What should investors do? - Business Today",POSITIVE,1,0.542,2026-11-26 10:26:20
+Nifty 50,"Stock Market Today Highlights: Dalal Street ends in green - BSE Sensex surges 1,500 points, Nifty50 tops 25,800 - The Times of India",POSITIVE,1,0.591,2026-11-26 10:26:23
+Nifty 50,"Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",NEGATIVE,-1,0.862,2026-11-26 10:26:23
+Nifty 50,"Sensex Today | Nifty 50 | Stock Market Highlights: Sensex zooms 1,109 pts, Nifty ends above 22,700; HUL, Bajaj Auto jump 3% each - The Economic Times",POSITIVE,1,0.533,2026-11-26 10:26:23
+Nifty 50,"Stock Market Today: Gift Nifty, Trump Tariffs To Gold Rates; Five Key Factors That May Drive Sensex, Nifty 50 On Nov 26 - NDTV Profit",POSITIVE,1,0.681,2026-11-26 10:26:23
+Nifty 50,"Stock market outlook today,26 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",NEUTRAL,0,0.843,2026-11-26 10:26:23
+Nifty 50,"Trade setup for Nov 26: NIFTY50 faces resistance at 26,000, can it cross on Thursday? - Upstox",NEUTRAL,0,0.737,2026-11-26 10:26:23
+Nifty 50,"Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",NEGATIVE,-1,0.774,2026-11-26 10:26:23
+Nifty 50,"Stock Market Today Highlights: BSE Sensex ends over 1200 points; Nifty50 holds above 23,800 - The Times of India",NEUTRAL,0,0.726,2026-11-26 10:26:23
